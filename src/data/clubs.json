@@ -1,0 +1,3752 @@
+{
+  "mexico": {
+    "id": "mexico",
+    "title": "Mexico",
+    "brand": "adidas",
+    "color1": "#1F5745",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "spain": {
+    "id": "spain",
+    "title": "Spain",
+    "brand": "adidas",
+    "color1": "#FE0003",
+    "color2": "#001870",
+    "isNational": true
+  },
+  "france": {
+    "id": "france",
+    "title": "France",
+    "brand": "nike",
+    "color1": "#112855",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "brazil": {
+    "id": "brazil",
+    "title": "Brazil",
+    "brand": "nike",
+    "color1": "#FBE103",
+    "color2": "#003CFF",
+    "isNational": true
+  },
+  "portugal": {
+    "id": "portugal",
+    "title": "Portugal",
+    "brand": "nike",
+    "color1": "#EB0528",
+    "color2": "#006200",
+    "isNational": true
+  },
+  "england": {
+    "id": "england",
+    "title": "England",
+    "brand": "nike",
+    "color1": "#FBFBFB",
+    "color2": "#0C1351",
+    "isNational": true
+  },
+  "argentina": {
+    "id": "argentina",
+    "title": "Argentina",
+    "brand": "adidas",
+    "color1": "#FFFFFF",
+    "color2": "#CAE6FF",
+    "isNational": true
+  },
+  "germany": {
+    "id": "germany",
+    "title": "Germany",
+    "brand": "adidas",
+    "color1": "#FFFFFF",
+    "color2": "#000000",
+    "isNational": true
+  },
+  "italy": {
+    "id": "italy",
+    "title": "Italy",
+    "brand": "puma",
+    "color1": "#113ED7",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "netherlands": {
+    "id": "netherlands",
+    "title": "Neetherlands",
+    "brand": "nike",
+    "color1": "#FE6003",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "hungary": {
+    "id": "hungary",
+    "title": "Hungary",
+    "brand": "adidas",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "russia": {
+    "id": "russia",
+    "title": "Russia",
+    "brand": "adidas",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "wales": {
+    "id": "wales",
+    "title": "Wales",
+    "brand": "adidas",
+    "color1": "#FE0003",
+    "color2": "#FFD003",
+    "isNational": true
+  },
+  "costarica": {
+    "id": "costarica",
+    "title": "Costa Rica",
+    "brand": "newbalance",
+    "color1": "#DC0005",
+    "color2": "#0057E8",
+    "isNational": true
+  },
+  "croatia": {
+    "id": "croatia",
+    "title": "Croatia",
+    "brand": "nike",
+    "color1": "#F40003",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "nigeria": {
+    "id": "nigeria",
+    "title": "Nigeria",
+    "brand": "nike",
+    "color1": "#1A4030",
+    "color2": "#37FF5C",
+    "isNational": true
+  },
+  "bosnia": {
+    "id": "bosnia",
+    "title": "Bosnia & Herzegovina",
+    "brand": "adidas",
+    "color1": "#17203F",
+    "color2": "#D6B446",
+    "isNational": true
+  },
+  "turkey": {
+    "id": "turkey",
+    "title": "Turkey",
+    "brand": "nike",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "unitedstates": {
+    "id": "unitedstates",
+    "title": "United States of America",
+    "brand": "nike",
+    "color1": "#FFFFFF",
+    "color2": "#0D45FF",
+    "isNational": true
+  },
+  "sweden": {
+    "id": "sweden",
+    "title": "Sweden",
+    "brand": "adidas",
+    "color1": "#FFFF04",
+    "color2": "#000555",
+    "isNational": true
+  },
+  "denmark": {
+    "id": "denmark",
+    "title": "Denmark",
+    "brand": "hummel",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "czech": {
+    "id": "czech",
+    "title": "Czech Republic",
+    "brand": "puma",
+    "color1": "#F00002",
+    "color2": "#0000EE",
+    "isNational": true
+  },
+  "egypt": {
+    "id": "egypt",
+    "title": "Egypt",
+    "brand": "puma",
+    "color1": "#F70003",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "belgium": {
+    "id": "belgium",
+    "title": "Belgium",
+    "brand": "adidas",
+    "color1": "#FE0003",
+    "color2": "#000000",
+    "isNational": true
+  },
+  "slovenia": {
+    "id": "slovenia",
+    "title": "Slovenia",
+    "brand": "nike",
+    "color1": "#FFFFFF",
+    "color2": "#0030FF",
+    "isNational": true
+  },
+  "uruguay": {
+    "id": "uruguay",
+    "title": "Uruguay",
+    "brand": "puma",
+    "color1": "#80B7FF",
+    "color2": "#000000",
+    "isNational": true
+  },
+  "romania": {
+    "id": "romania",
+    "title": "Romania",
+    "brand": "joma",
+    "color1": "#FFFF0B",
+    "color2": "#D00821",
+    "isNational": true
+  },
+  "colombia": {
+    "id": "colombia",
+    "title": "Colombia",
+    "brand": "adidas",
+    "color1": "#FCEC03",
+    "color2": "#183279",
+    "isNational": true
+  },
+  "trinidad&tobago": {
+    "id": "trinidad&tobago",
+    "title": "Trinidad and Tobago",
+    "brand": "capelli",
+    "color1": "#FE0003",
+    "color2": "#0F0000",
+    "isNational": true
+  },
+  "southkorea": {
+    "id": "southkorea",
+    "title": "South Korea",
+    "brand": "nike",
+    "color1": "#FE0B24",
+    "color2": "#0A0A0A",
+    "isNational": true
+  },
+  "japan": {
+    "id": "japan",
+    "title": "Japan",
+    "brand": "adidas",
+    "color1": "#54C2FF",
+    "color2": "#000555",
+    "isNational": true
+  },
+  "australia": {
+    "id": "australia",
+    "title": "Australia",
+    "brand": "nike",
+    "color1": "#FFBB03",
+    "color2": "#213B36",
+    "isNational": true
+  },
+  "chile": {
+    "id": "chile",
+    "title": "Chile",
+    "brand": "nike",
+    "color1": "#FE0003",
+    "color2": "#0000BE",
+    "isNational": true
+  },
+  "ivorycoast": {
+    "id": "ivorycoast",
+    "title": "Ivory Coast",
+    "brand": "puma",
+    "color1": "#FFA500",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "cameroon": {
+    "id": "cameroon",
+    "title": "Cameroon",
+    "brand": "lecoq",
+    "color1": "#007431",
+    "color2": "#FFE000",
+    "isNational": true
+  },
+  "ghana": {
+    "id": "ghana",
+    "title": "Ghana",
+    "brand": "puma",
+    "color1": "#FF0000",
+    "color2": "#FFFF00",
+    "isNational": true
+  },
+  "paraguay": {
+    "id": "paraguay",
+    "title": "Paraguay",
+    "brand": "puma",
+    "color1": "#FFFFFF",
+    "color2": "#FF2020",
+    "isNational": true
+  },
+  "ukraine": {
+    "id": "ukraine",
+    "title": "Ukraine",
+    "brand": "joma",
+    "color1": "#FFE100",
+    "color2": "#0000F8",
+    "isNational": true
+  },
+  "poland": {
+    "id": "poland",
+    "title": "Poland",
+    "brand": "nike",
+    "color1": "#FFFFFF",
+    "color2": "#F9001D",
+    "isNational": true
+  },
+  "bulgaria": {
+    "id": "bulgaria",
+    "title": "Bulgaria",
+    "brand": "joma",
+    "color1": "#FFFFFF",
+    "color2": "#068619",
+    "isNational": true
+  },
+  "northernireland": {
+    "id": "northernireland",
+    "title": "Northern Ireland",
+    "brand": "adidas",
+    "color1": "#22913C",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "scotland": {
+    "id": "scotland",
+    "title": "Scotland",
+    "brand": "adidas",
+    "color1": "#000073",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "norway": {
+    "id": "norway",
+    "title": "Norway",
+    "brand": "nike",
+    "color1": "#D70015",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "ireland": {
+    "id": "ireland",
+    "title": "Ireland",
+    "brand": "umbro",
+    "color1": "#006F32",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "ecuador": {
+    "id": "ecuador",
+    "title": "Ecuador",
+    "brand": "marathon",
+    "color1": "#FCFA00",
+    "color2": "#071746",
+    "isNational": true
+  },
+  "liberia": {
+    "id": "liberia",
+    "title": "Liberia",
+    "brand": "adidas",
+    "color1": "#0033E1",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
+  "senegal": {
+    "id": "senegal",
+    "title": "Senegal",
+    "brand": "puma",
+    "color1": "#FFFFFF",
+    "color2": "#25885F",
+    "isNational": true
+  },
+  "gabon": {
+    "id": "gabon",
+    "title": "Gabon",
+    "brand": "adidas",
+    "color1": "#FEF101",
+    "color2": "#0F22CA",
+    "isNational": true
+  },
+  "algeria": {
+    "id": "algeria",
+    "title": "Algeria",
+    "brand": "adidas",
+    "color1": "#FFFFFF",
+    "color2": "#007A5C",
+    "isNational": true
+  },
+  "realmadrid": {
+    "id": "realmadrid",
+    "title": "Real Madrid",
+    "brand": "adidas",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#D8BD75"
+  },
+  "porto": {
+    "id": "porto",
+    "title": "Porto",
+    "brand": "newbalance",
+    "country": "portugal",
+    "color1": "#003C71",
+    "color2": "#FFFFFF"
+  },
+  "cannes": {
+    "id": "cannes",
+    "title": "Cannes",
+    "brand": "macron",
+    "country": "france",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "bordeaux": {
+    "id": "bordeaux",
+    "title": "Bordeaux",
+    "brand": "puma",
+    "country": "france",
+    "color1": "#000630",
+    "color2": "#FFFFFF"
+  },
+  "juventus": {
+    "id": "juventus",
+    "title": "Juventus",
+    "brand": "adidas",
+    "country": "italy",
+    "color1": "#000000",
+    "color2": "#FFFFFF"
+  },
+  "cruzeiro": {
+    "id": "cruzeiro",
+    "title": "Cruzeiro",
+    "brand": "umbro",
+    "country": "brazil",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "psv": {
+    "id": "psv",
+    "title": "PSV",
+    "brand": "umbro",
+    "country": "netherlands",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "barcelona": {
+    "id": "barcelona",
+    "title": "Barcelona",
+    "brand": "nike",
+    "country": "spain",
+    "color1": "#000080",
+    "color2": "#C10001"
+  },
+  "inter": {
+    "id": "inter",
+    "title": "FC Internazionale Milano",
+    "brand": "nike",
+    "country": "italy",
+    "color1": "#005FBF",
+    "color2": "#000000"
+  },
+  "milan": {
+    "id": "milan",
+    "title": "AC Milan",
+    "brand": "puma",
+    "country": "italy",
+    "color1": "#AD0020",
+    "color2": "#100001"
+  },
+  "corinthians": {
+    "id": "corinthians",
+    "title": "Corinthians",
+    "brand": "nike",
+    "country": "brazil",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "schalke": {
+    "id": "schalke",
+    "title": "Schalke 04",
+    "brand": "umbro",
+    "country": "germany",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "alsadd": {
+    "id": "alsadd",
+    "title": "Al-Sadd",
+    "brand": "puma",
+    "country": "qatar",
+    "color1": "#FFFFFF",
+    "color2": "#1A1A1A"
+  },
+  "cosmos": {
+    "id": "cosmos",
+    "title": "Cosmos",
+    "brand": "inaria",
+    "country": "unitedstates",
+    "color1": "#FFFFFF",
+    "color2": "#008800"
+  },
+  "sporting": {
+    "id": "sporting",
+    "title": "Sporting",
+    "brand": "macron",
+    "country": "portugal",
+    "color1": "#058331",
+    "color2": "#FFFFFF"
+  },
+  "manchesterunited": {
+    "id": "manchesterunited",
+    "title": "Manchester United",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "galaxy": {
+    "id": "galaxy",
+    "title": "Los Angeles Galaxy",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#FFFFFF",
+    "color2": "#000040"
+  },
+  "psg": {
+    "id": "psg",
+    "title": "Paris Saint-Germain",
+    "brand": "nike",
+    "country": "france",
+    "color1": "#000040",
+    "color2": "#E50002"
+  },
+  "unam": {
+    "id": "unam",
+    "title": "UNAM",
+    "brand": "nike",
+    "country": "mexico",
+    "color1": "#FFFFFF",
+    "color2": "#000040"
+  },
+  "atlante": {
+    "id": "atlante",
+    "title": "Atlante",
+    "brand": "kappa",
+    "country": "mexico",
+    "color1": "#01267E",
+    "color2": "#E00002"
+  },
+  "chicago": {
+    "id": "chicago",
+    "title": "Chicago Fire",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "cruzazul": {
+    "id": "cruzazul",
+    "title": "Cruz Azul",
+    "brand": "joma",
+    "country": "mexico",
+    "color1": "#001CBB",
+    "color2": "#FFFFFF"
+  },
+  "uanl": {
+    "id": "uanl",
+    "title": "UANL",
+    "brand": "adidas",
+    "country": "mexico",
+    "color1": "#FED01A",
+    "color2": "#0000E9"
+  },
+  "puebla": {
+    "id": "puebla",
+    "title": "Puebla",
+    "brand": "umbro",
+    "country": "mexico",
+    "color1": "#FFFFFF",
+    "color2": "#0032A8"
+  },
+  "linz": {
+    "id": "linz",
+    "title": "Linz",
+    "brand": "forzaask",
+    "country": "austria",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "atleticomadrid": {
+    "id": "atleticomadrid",
+    "title": "Atletico de Madrid",
+    "brand": "nike",
+    "country": "spain",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "america": {
+    "id": "america",
+    "title": "America",
+    "brand": "nike",
+    "country": "mexico",
+    "color1": "#FFFF91",
+    "color2": "#000E50"
+  },
+  "rayovallecano": {
+    "id": "rayovallecano",
+    "title": "Rayo Vallecano",
+    "brand": "kelme",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#F90004"
+  },
+  "celaya": {
+    "id": "celaya",
+    "title": "Celaya",
+    "brand": "keuka",
+    "country": "mexico",
+    "color1": "#FFFFFF",
+    "color2": "#00009A"
+  },
+  "sandiego": {
+    "id": "sandiego",
+    "title": "San Diego Sockers",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#FFFF04",
+    "color2": "#0000FF"
+  },
+  "dallas": {
+    "id": "dallas",
+    "title": "Dallas",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#C31C22",
+    "color2": "#FFFFFF"
+  },
+  "necaxa": {
+    "id": "necaxa",
+    "title": "Necaxa",
+    "brand": "charly",
+    "country": "mexico",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "realvalladolid": {
+    "id": "realvalladolid",
+    "title": "Real Valladolid",
+    "brand": "hummel",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#3A006A"
+  },
+  "veracruz": {
+    "id": "veracruz",
+    "title": "Veracruz",
+    "brand": "charly",
+    "country": "mexico",
+    "color1": "#FE0003",
+    "color2": "#010101"
+  },
+  "santoslaguna": {
+    "id": "santoslaguna",
+    "title": "Santos Laguna",
+    "brand": "charly",
+    "country": "mexico",
+    "color1": "#14926D",
+    "color2": "#FFFFFF"
+  },
+  "irapuato": {
+    "id": "irapuato",
+    "title": "Irapuato",
+    "brand": "silver",
+    "country": "mexico",
+    "color1": "#D20002",
+    "color2": "#000040"
+  },
+  "dorados": {
+    "id": "dorados",
+    "title": "Dorados",
+    "brand": "charly",
+    "country": "mexico",
+    "color1": "#FFF6AD",
+    "color2": "#020202"
+  },
+  "buap": {
+    "id": "buap",
+    "title": "BUAP",
+    "brand": "pirma",
+    "country": "mexico",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "atlas": {
+    "id": "atlas",
+    "title": "Atlas",
+    "brand": "adidas",
+    "country": "mexico",
+    "color1": "#C20002",
+    "color2": "#010101"
+  },
+  "monaco": {
+    "id": "monaco",
+    "title": "Monaco",
+    "brand": "kappa",
+    "country": "monaco",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "newyork": {
+    "id": "newyork",
+    "title": "New York Red Bulls",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#C9C7C8",
+    "color2": "#CC2832"
+  },
+  "leon": {
+    "id": "leon",
+    "title": "León",
+    "brand": "pirma",
+    "country": "mexico",
+    "color1": "#077A54",
+    "color2": "#FFFFFF"
+  },
+  "hellasverona": {
+    "id": "hellasverona",
+    "title": "Hellas Verona",
+    "brand": "macron",
+    "country": "italy",
+    "color1": "#121FB4",
+    "color2": "#F5E840"
+  },
+  "santos": {
+    "id": "santos",
+    "title": "Santos",
+    "brand": "umbro",
+    "country": "brazil",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "argentinos": {
+    "id": "argentinos",
+    "title": "Argentinos Juniors",
+    "brand": "umbro",
+    "country": "argentina",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "bocajuniors": {
+    "id": "bocajuniors",
+    "title": "Boca Juniors",
+    "brand": "nike",
+    "country": "argentina",
+    "color1": "#000050",
+    "color2": "#FFCC03"
+  },
+  "napoli": {
+    "id": "napoli",
+    "title": "Napoli",
+    "brand": "kappa",
+    "country": "italy",
+    "color1": "#0676D2",
+    "color2": "#FFFFFF"
+  },
+  "sevilla": {
+    "id": "sevilla",
+    "title": "Sevilla",
+    "brand": "nike",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "newells": {
+    "id": "newells",
+    "title": "Newell's Old Boys",
+    "brand": "umbro",
+    "country": "argentina",
+    "color1": "#000000",
+    "color2": "#FE0404"
+  },
+  "karlsruher": {
+    "id": "karlsruher",
+    "title": "Karlsruher",
+    "brand": "macron",
+    "country": "germany",
+    "color1": "#0003EA",
+    "color2": "#FFFFFF"
+  },
+  "bayernmunich": {
+    "id": "bayernmunich",
+    "title": "Bayern Munich",
+    "brand": "adidas",
+    "country": "germany",
+    "color1": "#D50002",
+    "color2": "#FFFFFF"
+  },
+  "parma": {
+    "id": "parma",
+    "title": "Parma",
+    "brand": "errea",
+    "country": "italy",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "rioave": {
+    "id": "rioave",
+    "title": "Rio Ave",
+    "brand": "nike",
+    "country": "portugal",
+    "color1": "#007600",
+    "color2": "#FFFFFF"
+  },
+  "benfica": {
+    "id": "benfica",
+    "title": "Benfica",
+    "brand": "adidas",
+    "country": "portugal",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "nacionalmadeira": {
+    "id": "nacionalmadeira",
+    "title": "Nacional de Madeira",
+    "brand": "hummel",
+    "country": "portugal",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "realzaragoza": {
+    "id": "realzaragoza",
+    "title": "Real Zaragoza",
+    "brand": "adidas",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#0000FF"
+  },
+  "hamburger": {
+    "id": "hamburger",
+    "title": "Hamburger",
+    "brand": "adidas",
+    "country": "germany",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "ajax": {
+    "id": "ajax",
+    "title": "Ajax",
+    "brand": "adidas",
+    "country": "netherlands",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "aztecs": {
+    "id": "aztecs",
+    "title": "Los Angeles Aztecs",
+    "brand": "adidasvintage",
+    "country": "unitedstates",
+    "color1": "#FFFFFF",
+    "color2": "#0000FF"
+  },
+  "diplomats": {
+    "id": "diplomats",
+    "title": "Washington Diplomats",
+    "brand": "adidasvintage",
+    "country": "unitedstates",
+    "color1": "#BC1234",
+    "color2": "#FFFFFF"
+  },
+  "levante": {
+    "id": "levante",
+    "title": "Levante",
+    "brand": "macron",
+    "country": "spain",
+    "color1": "#0A1E97",
+    "color2": "#DB0002"
+  },
+  "feyenoord": {
+    "id": "feyenoord",
+    "title": "Feyenoord",
+    "brand": "adidas",
+    "country": "netherlands",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "nancy": {
+    "id": "nancy",
+    "title": "Nancy-Lorraine",
+    "brand": "nike",
+    "country": "france",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "saintetienne": {
+    "id": "saintetienne",
+    "title": "Saint-Étienne",
+    "brand": "lecoq",
+    "country": "france",
+    "color1": "#00812D",
+    "color2": "#FFFFFF"
+  },
+  "uniaosaojoao": {
+    "id": "uniaosaojoao",
+    "title": "União São João",
+    "brand": "ludi",
+    "country": "brazil",
+    "color1": "#FFFFFF",
+    "color2": "#008000"
+  },
+  "palmeiras": {
+    "id": "palmeiras",
+    "title": "Saint-Étienne",
+    "brand": "puma",
+    "country": "brazil",
+    "color1": "#003e00",
+    "color2": "#FFFFFF"
+  },
+  "fenerbahce": {
+    "id": "fenerbahce",
+    "title": "Fenerbahçe",
+    "brand": "adidas",
+    "country": "turkey",
+    "color1": "#00005F",
+    "color2": "#FFEE03"
+  },
+  "anzhi": {
+    "id": "anzhi",
+    "title": "Anzhí",
+    "brand": "nike",
+    "country": "russia",
+    "color1": "#FFFF04",
+    "color2": "#008900"
+  },
+  "budapest": {
+    "id": "budapest",
+    "title": "Budapest Honvéd",
+    "brand": "macron",
+    "country": "hungary",
+    "color1": "#F32C2F",
+    "color2": "#008900"
+  },
+  "dynamomoscow": {
+    "id": "dynamomoscow",
+    "title": "Dynamo Moscow",
+    "brand": "nike",
+    "country": "russia",
+    "color1": "#2447D5",
+    "color2": "#FFFFFF"
+  },
+  "riverplate": {
+    "id": "riverplate",
+    "title": "River Plate",
+    "brand": "adidas",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#FE0B0B"
+  },
+  "huracan": {
+    "id": "huracan",
+    "title": "Huracán",
+    "brand": "tbs",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "millonarios": {
+    "id": "millonarios",
+    "title": "Millonarios",
+    "brand": "adidas",
+    "country": "colombia",
+    "color1": "#0D3F96",
+    "color2": "#FFFFFF"
+  },
+  "espanyol": {
+    "id": "espanyol",
+    "title": "Espanyol",
+    "brand": "kelme",
+    "country": "spain",
+    "color1": "#0040FF",
+    "color2": "#FFFFFF"
+  },
+  "udinese": {
+    "id": "udinese",
+    "title": "Udinese",
+    "brand": "macron",
+    "country": "italy",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "mantova": {
+    "id": "mantova",
+    "title": "Mantova 1911",
+    "brand": "ginova",
+    "country": "italy",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "queretaro": {
+    "id": "queretaro",
+    "title": "Querétaro",
+    "brand": "puma",
+    "country": "mexico",
+    "color1": "#010101",
+    "color2": "#154FFB"
+  },
+  "monterrey": {
+    "id": "monterrey",
+    "title": "Monterrey",
+    "brand": "puma",
+    "country": "mexico",
+    "color1": "#020B3E",
+    "color2": "#FFFFFF"
+  },
+  "chiapas": {
+    "id": "chiapas",
+    "title": "Chiapas",
+    "brand": "charly",
+    "country": "mexico",
+    "color1": "#0B7F60",
+    "color2": "#010101"
+  },
+  "standardliege": {
+    "id": "standardliege",
+    "title": "Standard Liège",
+    "brand": "newbalance",
+    "country": "belgium",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "guadalajara": {
+    "id": "guadalajara",
+    "title": "Guadalajara",
+    "brand": "puma",
+    "country": "mexico",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "saopaulo": {
+    "id": "saopaulo",
+    "title": "São Paulo",
+    "brand": "adidas",
+    "country": "brazil",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "roma": {
+    "id": "roma",
+    "title": "Roma",
+    "brand": "nike",
+    "country": "italy",
+    "color1": "#8F0908",
+    "color2": "#FFFFFF"
+  },
+  "deportivocoruna": {
+    "id": "deportivocoruna",
+    "title": "Deportivo de La Coruña",
+    "brand": "macron",
+    "country": "spain",
+    "color1": "#0030FF",
+    "color2": "#FFFFFF"
+  },
+  "leverkusen": {
+    "id": "leverkusen",
+    "title": "Bayer 04 Leverkusen",
+    "brand": "jako",
+    "country": "germany",
+    "color1": "#FE0003",
+    "color2": "#000000"
+  },
+  "valencia": {
+    "id": "valencia",
+    "title": "Valencia",
+    "brand": "puma",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#FE6303"
+  },
+  "realbetis": {
+    "id": "realbetis",
+    "title": "Real Betis",
+    "brand": "kappa",
+    "country": "spain",
+    "color1": "#007E00",
+    "color2": "#FFFFFF"
+  },
+  "gremio": {
+    "id": "gremio",
+    "title": "Grêmio",
+    "brand": "umbro",
+    "country": "brazil",
+    "color1": "#5EB3FF",
+    "color2": "#000000"
+  },
+  "flamengo": {
+    "id": "flamengo",
+    "title": "Flamengo",
+    "brand": "adidas",
+    "country": "brazil",
+    "color1": "#C80002",
+    "color2": "#000000"
+  },
+  "atleticomineiro": {
+    "id": "atleticomineiro",
+    "title": "Atlético Mineiro",
+    "brand": "lecoq",
+    "country": "brazil",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "fluminense": {
+    "id": "fluminense",
+    "title": "Fluminense",
+    "brand": "under",
+    "country": "brazil",
+    "color1": "#A00001",
+    "color2": "#006000"
+  },
+  "fulham": {
+    "id": "fulham",
+    "title": "Fulham",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "besiktas": {
+    "id": "besiktas",
+    "title": "Beşiktaş",
+    "brand": "adidas",
+    "country": "turkey",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "southampton": {
+    "id": "southampton",
+    "title": "Southampton",
+    "brand": "under",
+    "country": "england",
+    "color1": "#FE0003",
+    "color2": "#000000"
+  },
+  "tottenham": {
+    "id": "tottenham",
+    "title": "Tottenham",
+    "brand": "nike",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#000040"
+  },
+  "westham": {
+    "id": "westham",
+    "title": "West Ham United",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#800001",
+    "color2": "#82C2FF"
+  },
+  "olympiquelyon": {
+    "id": "olympiquelyon",
+    "title": "Olympique de Lyon",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#FFFFFF",
+    "color2": "#DA0022"
+  },
+  "alrayyan": {
+    "id": "alrayyan",
+    "title": "Al-Rayyan",
+    "brand": "nike",
+    "country": "qatar",
+    "color1": "#FE0003",
+    "color2": "#000000"
+  },
+  "bolton": {
+    "id": "bolton",
+    "title": "Bolton Wanderers",
+    "brand": "hummel",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#00004F"
+  },
+  "salamanca": {
+    "id": "salamanca",
+    "title": "Salamanca",
+    "brand": "adidas",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "osasuna": {
+    "id": "osasuna",
+    "title": "Osasuna",
+    "brand": "hummel",
+    "country": "spain",
+    "color1": "#CE0002",
+    "color2": "#00003C"
+  },
+  "arsenal": {
+    "id": "arsenal",
+    "title": "Arsenal",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "realsociedad": {
+    "id": "realsociedad",
+    "title": "Real Sociedad",
+    "brand": "macron",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#0000FF"
+  },
+  "losangeles": {
+    "id": "losangeles",
+    "title": "Los Angeles",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#020202",
+    "color2": "#A68F4A"
+  },
+  "westbromwich": {
+    "id": "westbromwich",
+    "title": "West Bromwich",
+    "brand": "puma",
+    "country": "england",
+    "color1": "#031060",
+    "color2": "#FFFFFF"
+  },
+  "ajaccio": {
+    "id": "ajaccio",
+    "title": "Ajaccio",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#FFFFFF",
+    "color2": "#CC0002"
+  },
+  "malaga": {
+    "id": "malaga",
+    "title": "Málaga",
+    "brand": "nike",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#68AEFA"
+  },
+  "granada": {
+    "id": "granada",
+    "title": "Granada",
+    "brand": "nike",
+    "country": "spain",
+    "color1": "#FE0003",
+    "color2": "#0000FF"
+  },
+  "wolverhampton": {
+    "id": "wolverhampton",
+    "title": "Wolverhampton",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#FF8403",
+    "color2": "#000000"
+  },
+  "pachuca": {
+    "id": "pachuca",
+    "title": "Pachuca",
+    "brand": "charly",
+    "country": "mexico",
+    "color1": "#05143B",
+    "color2": "#FFFFFF"
+  },
+  "twente": {
+    "id": "twente",
+    "title": "Twente",
+    "brand": "kicks21",
+    "country": "netherlands",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "saprissa": {
+    "id": "saprissa",
+    "title": "Saprissa",
+    "brand": "kappa",
+    "country": "costarica",
+    "color1": "#79103E",
+    "color2": "#FFFFFF"
+  },
+  "albacete": {
+    "id": "albacete",
+    "title": "Albacete",
+    "brand": "hummel",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#7A000A"
+  },
+  "alkmaar": {
+    "id": "alkmaar",
+    "title": "AZ Alkmaar",
+    "brand": "under",
+    "country": "netherlands",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "algharafa": {
+    "id": "algharafa",
+    "title": "Al-Gharafa",
+    "brand": "errea",
+    "country": "qatar",
+    "color1": "#FFFFFF",
+    "color2": "#0000FF"
+  },
+  "watford": {
+    "id": "watford",
+    "title": "Watford",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#FFE003",
+    "color2": "#000000"
+  },
+  "atalanta": {
+    "id": "atalanta",
+    "title": "Atalanta",
+    "brand": "joma",
+    "country": "italy",
+    "color1": "#005FF2",
+    "color2": "#000000"
+  },
+  "villarreal": {
+    "id": "villarreal",
+    "title": "Villarreal",
+    "brand": "joma",
+    "country": "spain",
+    "color1": "#FFFF04",
+    "color2": "#000022"
+  },
+  "celtadevigo": {
+    "id": "celtadevigo",
+    "title": "Celta de Vigo",
+    "brand": "adidas",
+    "country": "spain",
+    "color1": "#B9E4FF",
+    "color2": "#9A1B1B"
+  },
+  "leganes": {
+    "id": "leganes",
+    "title": "Leganés",
+    "brand": "joma",
+    "country": "spain",
+    "color1": "#0043FF",
+    "color2": "#FFFFFF"
+  },
+  "realsaltlake": {
+    "id": "realsaltlake",
+    "title": "Real Salt Lake",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#E60002",
+    "color2": "#F8C203"
+  },
+  "fiorentina": {
+    "id": "fiorentina",
+    "title": "ACF Fiorentina",
+    "brand": "lecoq",
+    "country": "italy",
+    "color1": "#5B1B81",
+    "color2": "#000000"
+  },
+  "frankfurt": {
+    "id": "frankfurt",
+    "title": "Eintracht Frankfurt",
+    "brand": "nike",
+    "country": "germany",
+    "color1": "#000000",
+    "color2": "#F10003"
+  },
+  "mostar": {
+    "id": "mostar",
+    "title": "HŠK Zrinjski Mostar",
+    "brand": "macron",
+    "country": "bosnia",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "zapresic": {
+    "id": "zapresic",
+    "title": "NK Inter Zaprešić",
+    "brand": "joma",
+    "country": "croatia",
+    "color1": "#F8DD2D",
+    "color2": "#54A2EC"
+  },
+  "dinamozagreb": {
+    "id": "dinamozagreb",
+    "title": "GNK Dinamo Zagreb",
+    "brand": "adidas",
+    "country": "croatia",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "neunkirchen": {
+    "id": "neunkirchen",
+    "title": "Borussia Neunkirchen",
+    "brand": "joma",
+    "country": "germany",
+    "color1": "#DE0002",
+    "color2": "#101010"
+  },
+  "qatarsc": {
+    "id": "qatarsc",
+    "title": "Qatar SC",
+    "brand": "adidas",
+    "country": "qatar",
+    "color1": "#FFFF04",
+    "color2": "#000000"
+  },
+  "hullcity": {
+    "id": "hullcity",
+    "title": "Hull City AFC",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#FF9003",
+    "color2": "#000000"
+  },
+  "kobe": {
+    "id": "kobe",
+    "title": "Vissel Kobe",
+    "brand": "asics",
+    "country": "japan",
+    "color1": "#5F0101",
+    "color2": "#FFFFFF"
+  },
+  "nice": {
+    "id": "nice",
+    "title": "OGC Nice",
+    "brand": "macron",
+    "country": "france",
+    "color1": "#000000",
+    "color2": "#FE0003"
+  },
+  "chivasusa": {
+    "id": "chivasusa",
+    "title": "CD Chivas USA",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#B81901",
+    "color2": "#FFFFFF"
+  },
+  "zeljeznicar": {
+    "id": "zeljeznicar",
+    "title": "FK Željezničar",
+    "brand": "umbro",
+    "country": "bosnia",
+    "color1": "#0037AC",
+    "color2": "#FFFFFF"
+  },
+  "teplice": {
+    "id": "teplice",
+    "title": "FK Teplice",
+    "brand": "puma",
+    "country": "czech",
+    "color1": "#FFFF04",
+    "color2": "#0000FF"
+  },
+  "wolfsburg": {
+    "id": "wolfsburg",
+    "title": "VfL Wolfsburg",
+    "brand": "nike",
+    "country": "germany",
+    "color1": "#0C4010",
+    "color2": "#67D865"
+  },
+  "manchestercity": {
+    "id": "manchestercity",
+    "title": "Manchester City FC",
+    "brand": "puma",
+    "country": "england",
+    "color1": "#81C2FF",
+    "color2": "#FFFFFF"
+  },
+  "orlando": {
+    "id": "orlando",
+    "title": "Orlando City",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#5F00BF",
+    "color2": "#FFFFFF"
+  },
+  "tecos": {
+    "id": "tecos",
+    "title": "Tecos FC",
+    "brand": "romed",
+    "country": "mexico",
+    "color1": "#FFDB57",
+    "color2": "#FE0003"
+  },
+  "stuttgart": {
+    "id": "stuttgart",
+    "title": "VfB Stuttgart",
+    "brand": "jako",
+    "country": "germany",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "everton": {
+    "id": "everton",
+    "title": "Everton FC",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "dcunited": {
+    "id": "dcunited",
+    "title": "D.C. United",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#020202",
+    "color2": "#3E3E3E"
+  },
+  "internacional": {
+    "id": "internacional",
+    "title": "Internacional",
+    "brand": "nike",
+    "country": "brazil",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "liverpool": {
+    "id": "liverpool",
+    "title": "Liverpool FC",
+    "brand": "newbalance",
+    "country": "england",
+    "color1": "#DE0002",
+    "color2": "#FFFFFF"
+  },
+  "earthquakes": {
+    "id": "earthquakes",
+    "title": "San Jose Earthquakes",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#000000",
+    "color2": "#0000FF"
+  },
+  "alittihad": {
+    "id": "alittihad",
+    "title": "Al-Ittihad",
+    "brand": "joma",
+    "country": "saudiarabia",
+    "color1": "#FFFF04",
+    "color2": "#000000"
+  },
+  "morelia": {
+    "id": "morelia",
+    "title": "Monarcas Morelia",
+    "brand": "pirma",
+    "country": "mexico",
+    "color1": "#FFDF03",
+    "color2": "#FE0003"
+  },
+  "malmo": {
+    "id": "malmo",
+    "title": "Malmö FF",
+    "brand": "puma",
+    "country": "sweden",
+    "color1": "#82C2FF",
+    "color2": "#FFFFFF"
+  },
+  "brondby": {
+    "id": "brondby",
+    "title": "Brøndby IF",
+    "brand": "hummel",
+    "country": "denmark",
+    "color1": "#FFFF04",
+    "color2": "#000062"
+  },
+  "astonvilla": {
+    "id": "astonvilla",
+    "title": "Aston Villa FC",
+    "brand": "kappa",
+    "country": "england",
+    "color1": "#85001C",
+    "color2": "#A5CCFF"
+  },
+  "duklapraha": {
+    "id": "duklapraha",
+    "title": "Dukla Praha",
+    "brand": "adidas",
+    "country": "czech",
+    "color1": "#711124",
+    "color2": "#F8D903"
+  },
+  "spartapraha": {
+    "id": "spartapraha",
+    "title": "Sparta Praha",
+    "brand": "nike",
+    "country": "czech",
+    "color1": "#89001C",
+    "color2": "#FFFFFF"
+  },
+  "lazio": {
+    "id": "lazio",
+    "title": "SS Lazio",
+    "brand": "macron",
+    "country": "italy",
+    "color1": "#5699EB",
+    "color2": "#FFFFFF"
+  },
+  "almokawloon": {
+    "id": "almokawloon",
+    "title": "Al Mokawloon El Arab SC",
+    "brand": "adidas",
+    "country": "egypt",
+    "color1": "#F8FF25",
+    "color2": "#000000"
+  },
+  "basel": {
+    "id": "basel",
+    "title": "FC Basel",
+    "brand": "adidas",
+    "country": "switzerland",
+    "color1": "#FE0003",
+    "color2": "#0000FF"
+  },
+  "chelsea": {
+    "id": "chelsea",
+    "title": "Chelsea FC",
+    "brand": "nike",
+    "country": "england",
+    "color1": "#0000F7",
+    "color2": "#FFFFFF"
+  },
+  "racingsantander": {
+    "id": "racingsantander",
+    "title": "Racing de Santander",
+    "brand": "puma",
+    "country": "spain",
+    "color1": "#009150",
+    "color2": "#FFFFFF"
+  },
+  "blsany": {
+    "id": "blsany",
+    "title": "FK Chmel Blšany",
+    "brand": "puma",
+    "country": "czech",
+    "color1": "#FFFF04",
+    "color2": "#000080"
+  },
+  "rennais": {
+    "id": "rennais",
+    "title": "Stade Rennais FC",
+    "brand": "puma",
+    "country": "france",
+    "color1": "#FE0003",
+    "color2": "#000000"
+  },
+  "ipswich": {
+    "id": "ipswich",
+    "title": "Ipswich Town FC",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#0000FA",
+    "color2": "#FFFFFF"
+  },
+  "galatasaray": {
+    "id": "galatasaray",
+    "title": "Galatasaray",
+    "brand": "nike",
+    "country": "turkey",
+    "color1": "#F29603",
+    "color2": "#8B1124"
+  },
+  "mallorca": {
+    "id": "mallorca",
+    "title": "R.C.D. Mallorca",
+    "brand": "umbro",
+    "country": "spain",
+    "color1": "#FE0003",
+    "color2": "#0A0A0A"
+  },
+  "genk": {
+    "id": "genk",
+    "title": "KRC Genk",
+    "brand": "nike",
+    "country": "belgium",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "eibar": {
+    "id": "eibar",
+    "title": "SD Eibar",
+    "brand": "joma",
+    "country": "spain",
+    "color1": "#DD0002",
+    "color2": "#000077"
+  },
+  "middlesbrough": {
+    "id": "middlesbrough",
+    "title": "Middlesbrough FC",
+    "brand": "hummel",
+    "country": "england",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "sanluis": {
+    "id": "sanluis",
+    "title": "San Luis F.C.",
+    "brand": "pirma",
+    "country": "mexico",
+    "color1": "#EF9D20",
+    "color2": "#022276"
+  },
+  "olimpija": {
+    "id": "olimpija",
+    "title": "NK Olimpija Ljubljana",
+    "brand": "nike",
+    "country": "slovenia",
+    "color1": "#007700",
+    "color2": "#FFFFFF"
+  },
+  "leiria": {
+    "id": "leiria",
+    "title": "UD Leiria",
+    "brand": "adidas",
+    "country": "portugal",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "beiramar": {
+    "id": "beiramar",
+    "title": "SC Beira-Mar",
+    "brand": "joma",
+    "country": "portugal",
+    "color1": "#FFDF03",
+    "color2": "#000000"
+  },
+  "groningen": {
+    "id": "groningen",
+    "title": "FC Groningen",
+    "brand": "puma",
+    "country": "netherlands",
+    "color1": "#FFFFFF",
+    "color2": "#006416"
+  },
+  "celtic": {
+    "id": "celtic",
+    "title": "Celtic FC",
+    "brand": "newbalance",
+    "country": "scotland",
+    "color1": "#FFFFFF",
+    "color2": "#009921"
+  },
+  "tenerife": {
+    "id": "tenerife",
+    "title": "CD Tenerife",
+    "brand": "hummel",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#0000BC"
+  },
+  "ejido": {
+    "id": "ejido",
+    "title": "Polideportivo Ejido",
+    "brand": "joma",
+    "country": "spain",
+    "color1": "#6BD3F2",
+    "color2": "#FFFFFF"
+  },
+  "indyeleven": {
+    "id": "indyeleven",
+    "title": "Indy Eleven",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#00003E",
+    "color2": "#C00003"
+  },
+  "monchengladbach": {
+    "id": "monchengladbach",
+    "title": "Borussia Mönchengladbach",
+    "brand": "puma",
+    "country": "germany",
+    "color1": "#FFFFFF",
+    "color2": "#00BF84"
+  },
+  "homburg": {
+    "id": "homburg",
+    "title": "FC Homburg",
+    "brand": "adidas",
+    "country": "germany",
+    "color1": "#008000",
+    "color2": "#FFFFFF"
+  },
+  "kaiserslautern": {
+    "id": "kaiserslautern",
+    "title": "FC Kaiserslautern",
+    "brand": "nike",
+    "country": "germany",
+    "color1": "#FE0003",
+    "color2": "#770023"
+  },
+  "werderbremen": {
+    "id": "werderbremen",
+    "title": "Werder Bremen",
+    "brand": "umbro",
+    "country": "germany",
+    "color1": "#039A51",
+    "color2": "#FFFFFF"
+  },
+  "nacional": {
+    "id": "nacional",
+    "title": "Nacional",
+    "brand": "umbro",
+    "country": "uruguay",
+    "color1": "#FFFFFF",
+    "color2": "#003360"
+  },
+  "juventude": {
+    "id": "juventude",
+    "title": "Juventude",
+    "brand": "19treze",
+    "country": "brazil",
+    "color1": "#009C5A",
+    "color2": "#DDF2E9"
+  },
+  "toulouse": {
+    "id": "toulouse",
+    "title": "Toulouse FC",
+    "brand": "joma",
+    "country": "france",
+    "color1": "#7900B4",
+    "color2": "#000000"
+  },
+  "olympiquedemarseille": {
+    "id": "olympiquedemarseille",
+    "title": "Olympique de Marseille",
+    "brand": "puma",
+    "country": "france",
+    "color1": "#FFFFFF",
+    "color2": "#93CEE5"
+  },
+  "nantes": {
+    "id": "nantes",
+    "title": "FC Nantes",
+    "brand": "newbalance",
+    "country": "france",
+    "color1": "#FFFF04",
+    "color2": "#0E8A1F"
+  },
+  "farulconstanta": {
+    "id": "farulconstanta",
+    "title": "Farul Constanța",
+    "brand": "joma",
+    "country": "romania",
+    "color1": "#340099",
+    "color2": "#000000"
+  },
+  "sportulstudentesc": {
+    "id": "sportulstudentesc",
+    "title": "Sportul Studențesc",
+    "brand": "puma",
+    "country": "romania",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "fcsb": {
+    "id": "fcsb",
+    "title": "FCSB",
+    "brand": "nike",
+    "country": "romania",
+    "color1": "#DD2003",
+    "color2": "#063994"
+  },
+  "bresciacalcio": {
+    "id": "bresciacalcio",
+    "title": "Brescia Calcio",
+    "brand": "kappa",
+    "country": "italy",
+    "color1": "#006BB9",
+    "color2": "#FFFFFF"
+  },
+  "derbycounty": {
+    "id": "derbycounty",
+    "title": "Derby County FC",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#FEFEFE",
+    "color2": "#000000"
+  },
+  "atleticonacional": {
+    "id": "atleticonacional",
+    "title": "Atlético Nacional",
+    "brand": "nike",
+    "country": "colombia",
+    "color1": "#FFFFFF",
+    "color2": "#0D9148"
+  },
+  "medellin": {
+    "id": "medellin",
+    "title": "Independiente Medellín",
+    "brand": "puma",
+    "country": "colombia",
+    "color1": "#D8052B",
+    "color2": "#073477"
+  },
+  "realcartagena": {
+    "id": "realcartagena",
+    "title": "Real Cartagena",
+    "brand": "kimo",
+    "country": "colombia",
+    "color1": "#FFE10E",
+    "color2": "#158C00"
+  },
+  "alianzalima": {
+    "id": "alianzalima",
+    "title": "Alianza Lima",
+    "brand": "nike",
+    "country": "peru",
+    "color1": "#FFFFFF",
+    "color2": "#040F26"
+  },
+  "pereira": {
+    "id": "pereira",
+    "title": "Deportivo Pereira",
+    "brand": "oto",
+    "country": "colombia",
+    "color1": "#E50811",
+    "color2": "#FDE703"
+  },
+  "aucas": {
+    "id": "aucas",
+    "title": "Aucas",
+    "brand": "umbro",
+    "country": "ecuador",
+    "color1": "#E50811",
+    "color2": "#FDE703"
+  },
+  "guaros": {
+    "id": "guaros",
+    "title": "Guaros FC",
+    "country": "venezuela",
+    "color1": "#000000",
+    "color2": "#C70002"
+  },
+  "botafogo": {
+    "id": "botafogo",
+    "title": "Botafogo",
+    "brand": "kappa",
+    "country": "brazil",
+    "color1": "#000000",
+    "color2": "#FFFFFF"
+  },
+  "portuguesa": {
+    "id": "portuguesa",
+    "title": "Portuguesa Santista",
+    "brand": "umbro",
+    "country": "brazil",
+    "color1": "#FE0003",
+    "color2": "#008100"
+  },
+  "junior": {
+    "id": "junior",
+    "title": "Junior de Barranquilla",
+    "brand": "newbalance",
+    "country": "colombia",
+    "color1": "#FA0407",
+    "color2": "#FFFFFF"
+  },
+  "olaria": {
+    "id": "olaria",
+    "title": "Olaria",
+    "brand": "onza",
+    "country": "brazil",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "kashima": {
+    "id": "kashima",
+    "title": "Kashima Antlers",
+    "brand": "nike",
+    "country": "japan",
+    "color1": "#E20018",
+    "color2": "#00003E"
+  },
+  "botafogorp": {
+    "id": "botafogorp",
+    "title": "Botafogo de Ribeirão Preto",
+    "brand": "kappa",
+    "country": "brazil",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "vascodagama": {
+    "id": "vascodagama",
+    "title": "CR Vasco da Gama",
+    "brand": "diadora",
+    "country": "brazil",
+    "color1": "#000000",
+    "color2": "#FFFFFF"
+  },
+  "adelaide": {
+    "id": "adelaide",
+    "title": "Adelaide United",
+    "brand": "macron",
+    "country": "australia",
+    "color1": "#D50030",
+    "color2": "#FCE304"
+  },
+  "americarj": {
+    "id": "americarj",
+    "title": "America do Rio",
+    "brand": "icone",
+    "country": "brazil",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "realclubespana": {
+    "id": "realclubespana",
+    "title": "Real Club España",
+    "country": "mexico",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "toluca": {
+    "id": "toluca",
+    "title": "Toluca FC",
+    "brand": "under",
+    "country": "mexico",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "vancouver": {
+    "id": "vancouver",
+    "title": "Vancouver Whitecaps FC",
+    "brand": "adidas",
+    "country": "canada",
+    "color1": "#FFFFFF",
+    "color2": "#00003C"
+  },
+  "valerenga": {
+    "id": "valerenga",
+    "title": "Vålerenga Fotball",
+    "brand": "umbro",
+    "country": "norway",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "newcastle": {
+    "id": "newcastle",
+    "title": "Newcastle United FC",
+    "brand": "puma",
+    "country": "england",
+    "color1": "#000000",
+    "color2": "#FFFFFF"
+  },
+  "stokecity": {
+    "id": "stokecity",
+    "title": "Stoke City FC",
+    "brand": "macron",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "leyton": {
+    "id": "leyton",
+    "title": "Leyton Orient FC",
+    "brand": "newbalance",
+    "country": "england",
+    "color1": "#F10003",
+    "color2": "#C20002"
+  },
+  "millwall": {
+    "id": "millwall",
+    "title": "Millwall FC",
+    "brand": "macron",
+    "country": "england",
+    "color1": "#00003B",
+    "color2": "#FFFFFF"
+  },
+  "norwich": {
+    "id": "norwich",
+    "title": "Norwich City",
+    "brand": "errea",
+    "country": "england",
+    "color1": "#FFF003",
+    "color2": "#005327"
+  },
+  "leicester": {
+    "id": "leicester",
+    "title": "Leicester City FC",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#000DDA",
+    "color2": "#FFFFFF"
+  },
+  "dortmund": {
+    "id": "dortmund",
+    "title": "Borussia Dortmund",
+    "brand": "puma",
+    "country": "germany",
+    "color1": "#FFFF04",
+    "color2": "#000000"
+  },
+  "herediano": {
+    "id": "herediano",
+    "title": "Club Sport Herediano",
+    "brand": "umbro",
+    "country": "costarica",
+    "color1": "#FE111D",
+    "color2": "#F4DC0F"
+  },
+  "rosario": {
+    "id": "rosario",
+    "title": "Rosario Central",
+    "brand": "under",
+    "country": "argentina",
+    "color1": "#0000FF",
+    "color2": "#FFD703"
+  },
+  "tokyo": {
+    "id": "tokyo",
+    "title": "FC Tokyo",
+    "brand": "umbro",
+    "country": "japan",
+    "color1": "#FE0003",
+    "color2": "#0000FA"
+  },
+  "colorado": {
+    "id": "colorado",
+    "title": "Colorado Rapids",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#810001",
+    "color2": "#A0D0FF"
+  },
+  "memphis": {
+    "id": "memphis",
+    "title": "Memphis 901 FC",
+    "brand": "nike",
+    "country": "unitedstates",
+    "color1": "#056FF6",
+    "color2": "#04A3F2"
+  },
+  "blackburn": {
+    "id": "blackburn",
+    "title": "Blackburn Rovers FC",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#0077FF"
+  },
+  "birmingham": {
+    "id": "birmingham",
+    "title": "Birmingham City FC",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#103BCE",
+    "color2": "#FFFFFF"
+  },
+  "sydney": {
+    "id": "sydney",
+    "title": "Sydney FC",
+    "brand": "under",
+    "country": "australia",
+    "color1": "#78BDFF",
+    "color2": "#00003E"
+  },
+  "sunderland": {
+    "id": "sunderland",
+    "title": "Sunderland AFC",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "padova": {
+    "id": "padova",
+    "title": "Calcio Padova",
+    "brand": "kappa",
+    "country": "italy",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "odisha": {
+    "id": "odisha",
+    "title": "Odisha FC",
+    "brand": "tyka",
+    "country": "india",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "reggina": {
+    "id": "reggina",
+    "title": "Reggina 1914",
+    "brand": "legea",
+    "country": "italy",
+    "color1": "#8F2D43",
+    "color2": "#FFFFFF"
+  },
+  "newyorkfc": {
+    "id": "newyorkfc",
+    "title": "New York City FC",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#7EC0FF",
+    "color2": "#00245D"
+  },
+  "alahli": {
+    "id": "alahli",
+    "title": "Shabab Al-Ahli Dubai",
+    "brand": "nike",
+    "country": "unitedarabemirates",
+    "color1": "#FE0003",
+    "color2": "#008000"
+  },
+  "lille": {
+    "id": "lille",
+    "title": "Lille OSC",
+    "brand": "newbalance",
+    "country": "france",
+    "color1": "#D90002",
+    "color2": "#161F4B"
+  },
+  "anderlecht": {
+    "id": "anderlecht",
+    "title": "R.S.C. Anderlecht",
+    "brand": "joma",
+    "country": "belgium",
+    "color1": "#3E0081",
+    "color2": "#FFFFFF"
+  },
+  "auxerre": {
+    "id": "auxerre",
+    "title": "AJ Auxerre",
+    "brand": "macron",
+    "country": "france",
+    "color1": "#FFFFFF",
+    "color2": "#0068B2"
+  },
+  "montpellier": {
+    "id": "montpellier",
+    "title": "Montpellier Hérault SC",
+    "brand": "nike",
+    "country": "france",
+    "color1": "#000066",
+    "color2": "#FF6603"
+  },
+  "nimes": {
+    "id": "nimes",
+    "title": "Nîmes Olympique",
+    "brand": "puma",
+    "country": "france",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "leeds": {
+    "id": "leeds",
+    "title": "Leeds United FC",
+    "brand": "kappa",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#5A5A5A"
+  },
+  "kyoto": {
+    "id": "kyoto",
+    "title": "Kyoto Sanga FC",
+    "brand": "puma",
+    "country": "japan",
+    "color1": "#66138C",
+    "color2": "#000000"
+  },
+  "queenspark": {
+    "id": "queenspark",
+    "title": "Queens Park Rangers FC",
+    "brand": "errea",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#0030FF"
+  },
+  "osaka": {
+    "id": "osaka",
+    "title": "Cerezo Osaka",
+    "brand": "puma",
+    "country": "japan",
+    "color1": "#FA1A82",
+    "color2": "#00003E"
+  },
+  "shanghai": {
+    "id": "shanghai",
+    "title": "Shanghái Greenland Shenhua",
+    "brand": "nike",
+    "country": "china",
+    "color1": "#0000FF",
+    "color2": "#E0000A"
+  },
+  "zhejiang": {
+    "id": "zhejiang",
+    "title": "Zhejiang Greentown FC",
+    "brand": "anta",
+    "country": "china",
+    "color1": "#008000",
+    "color2": "#D4F9BE"
+  },
+  "melbourne": {
+    "id": "melbourne",
+    "title": "Melbourne City FC",
+    "brand": "puma",
+    "country": "australia",
+    "color1": "#6DBFFF",
+    "color2": "#FFFFFF"
+  },
+  "jamshedpur": {
+    "id": "jamshedpur",
+    "title": "Jamshedpur FC",
+    "brand": "nivia",
+    "country": "india",
+    "color1": "#8A0001",
+    "color2": "#00008B"
+  },
+  "denbosch": {
+    "id": "denbosch",
+    "title": "FC Den Bosch",
+    "brand": "masita",
+    "country": "netherlands",
+    "color1": "#0000AA",
+    "color2": "#FFFFFF"
+  },
+  "heerenveen": {
+    "id": "heerenveen",
+    "title": "SC Heerenveen",
+    "brand": "jako",
+    "country": "netherlands",
+    "color1": "#FFFFFF",
+    "color2": "#1A1AFF"
+  },
+  "quilmes": {
+    "id": "quilmes",
+    "title": "Quilmes",
+    "brand": "hummel",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#3130A1"
+  },
+  "racingclub": {
+    "id": "racingclub",
+    "title": "Racing Club",
+    "brand": "kappa",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#0096E9"
+  },
+  "velezsarsfield": {
+    "id": "velezsarsfield",
+    "title": "Vélez Sarsfield",
+    "brand": "kappa",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#0000FF"
+  },
+  "independiente": {
+    "id": "independiente",
+    "title": "Independiente",
+    "brand": "puma",
+    "country": "argentina",
+    "color1": "#FE0003",
+    "color2": "#000041"
+  },
+  "instituto": {
+    "id": "instituto",
+    "title": "Instituto",
+    "brand": "kelme",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "hercules": {
+    "id": "hercules",
+    "title": "Hércules de Alicante",
+    "brand": "kelme",
+    "country": "spain",
+    "color1": "#0045FF",
+    "color2": "#000000"
+  },
+  "firstvienna": {
+    "id": "firstvienna",
+    "title": "Vienna FC",
+    "brand": "errea",
+    "country": "austria",
+    "color1": "#FFDD03",
+    "color2": "#0000FF"
+  },
+  "polten": {
+    "id": "polten",
+    "title": "SKN St. Pölten",
+    "brand": "macron",
+    "country": "austria",
+    "color1": "#F9F103",
+    "color2": "#0000FF"
+  },
+  "kremser": {
+    "id": "kremser",
+    "title": "Kremser SC",
+    "brand": "nike",
+    "country": "austria",
+    "color1": "#000000",
+    "color2": "#FFFFFF"
+  },
+  "fernandezvial": {
+    "id": "fernandezvial",
+    "title": "Fernández Vial",
+    "brand": "puma",
+    "country": "chile",
+    "color1": "#FFFF04",
+    "color2": "#000000"
+  },
+  "maduraunited": {
+    "id": "maduraunited",
+    "title": "Madura United FC",
+    "brand": "mbb",
+    "country": "indonesia",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "chorrera": {
+    "id": "chorrera",
+    "title": "CA Independiente",
+    "brand": "everlast",
+    "country": "panama",
+    "color1": "#FFF304",
+    "color2": "#090A34"
+  },
+  "cobresal": {
+    "id": "cobresal",
+    "title": "Cobresal",
+    "brand": "ks7",
+    "country": "chile",
+    "color1": "#FFFFFF",
+    "color2": "#FE6603"
+  },
+  "trasandino": {
+    "id": "trasandino",
+    "title": "Trasandino",
+    "brand": "kuden",
+    "country": "chile",
+    "color1": "#00A380",
+    "color2": "#FFFFFF"
+  },
+  "gallen": {
+    "id": "gallen",
+    "title": "FC St. Gallen",
+    "brand": "jako",
+    "country": "switzerland",
+    "color1": "#00771D",
+    "color2": "#FFFFFF"
+  },
+  "colocolo": {
+    "id": "colocolo",
+    "title": "Colo-Colo",
+    "brand": "umbro",
+    "country": "chile",
+    "color1": "#00771D",
+    "color2": "#FFFFFF"
+  },
+  "chemnitzer": {
+    "id": "chemnitzer",
+    "title": "Chemnitzer FC",
+    "brand": "jako",
+    "country": "germany",
+    "color1": "#5ABAF8",
+    "color2": "#FFFFFF"
+  },
+  "fortlauderdale": {
+    "id": "fortlauderdale",
+    "title": "Fort Lauderdale Strikers",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#FFC90E",
+    "color2": "#FE0003"
+  },
+  "marsonia": {
+    "id": "marsonia",
+    "title": "NK Marsonia",
+    "brand": "jako",
+    "country": "croatia",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "nkzagreb": {
+    "id": "nkzagreb",
+    "title": "NK Zagreb",
+    "brand": "jako",
+    "country": "croatia",
+    "color1": "#FFFFFF",
+    "color2": "#E21B22"
+  },
+  "alduhail": {
+    "id": "alduhail",
+    "title": "Al-Duhail",
+    "brand": "puma",
+    "country": "qatar",
+    "color1": "#FE0003",
+    "color2": "#C1C1C1"
+  },
+  "osijek": {
+    "id": "osijek",
+    "title": "NK Osijek",
+    "brand": "nike",
+    "country": "croatia",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "1860munich": {
+    "id": "1860munich",
+    "title": "TSV 1860 Munich",
+    "brand": "macron",
+    "country": "germany",
+    "color1": "#FFFFFF",
+    "color2": "#69C5F0"
+  },
+  "zehlendorf": {
+    "id": "zehlendorf",
+    "title": "Hertha Zehlendorf",
+    "brand": "hummel",
+    "country": "germany",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "hertha": {
+    "id": "hertha",
+    "title": "Hertha BSC",
+    "brand": "nike",
+    "country": "germany",
+    "color1": "#0303FF",
+    "color2": "#FFFFFF"
+  },
+  "salzburg": {
+    "id": "salzburg",
+    "title": "Red Bull Salzburg",
+    "brand": "nike",
+    "country": "austria",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "gijon": {
+    "id": "gijon",
+    "title": "Real Sporting de Gijón",
+    "brand": "nike",
+    "country": "spain",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "bilbao": {
+    "id": "bilbao",
+    "title": "Athletic Club de Bilbao",
+    "brand": "newbalance",
+    "country": "spain",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "alaves": {
+    "id": "alaves",
+    "title": "Deportivo Alavés",
+    "brand": "kelme",
+    "country": "spain",
+    "color1": "#0024C6",
+    "color2": "#FFFFFF"
+  },
+  "lemans": {
+    "id": "lemans",
+    "title": "Le Mans FC",
+    "brand": "kappa",
+    "country": "france",
+    "color1": "#FE0200",
+    "color2": "#F2FF21"
+  },
+  "guingamp": {
+    "id": "guingamp",
+    "title": "EA Guingamp",
+    "brand": "umbro",
+    "country": "france",
+    "color1": "#E50200",
+    "color2": "#000000"
+  },
+  "montreal": {
+    "id": "montreal",
+    "title": "Impact de Montréal",
+    "brand": "adidas",
+    "country": "canada",
+    "color1": "#000000",
+    "color2": "#054FDF"
+  },
+  "phoenix": {
+    "id": "phoenix",
+    "title": "Phoenix Rising FC",
+    "brand": "macron",
+    "country": "unitedstates",
+    "color1": "#FE0200",
+    "color2": "#000000"
+  },
+  "sampdoria": {
+    "id": "sampdoria",
+    "title": "UC Sampdoria",
+    "brand": "joma",
+    "country": "italy",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "antalyaspor": {
+    "id": "antalyaspor",
+    "title": "Antalyaspor",
+    "brand": "nike",
+    "country": "turkey",
+    "color1": "#FFFFFF",
+    "color2": "#FF0000"
+  },
+  "konyaspor": {
+    "id": "konyaspor",
+    "title": "Konyaspor",
+    "brand": "lotto",
+    "country": "turkey",
+    "color1": "#FFFFFF",
+    "color2": "#007800"
+  },
+  "liberty": {
+    "id": "liberty",
+    "title": "Liberty Professionals FC",
+    "country": "ghana",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "bastia": {
+    "id": "bastia",
+    "title": "S. C. Bastia",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "panathinaikos": {
+    "id": "panathinaikos",
+    "title": "Panathinaikos FC",
+    "brand": "kappa",
+    "country": "greece",
+    "color1": "#3DB28A",
+    "color2": "#FFFFFF"
+  },
+  "persib": {
+    "id": "persib",
+    "title": "Persib Bandung",
+    "country": "indonesia",
+    "color1": "#0000CD",
+    "color2": "#FFFFFF"
+  },
+  "sabail": {
+    "id": "sabail",
+    "title": "Səbail FK",
+    "brand": "macron",
+    "country": "azerbaijan",
+    "color1": "#88CFFA",
+    "color2": "#F8FCFF"
+  },
+  "mimosas": {
+    "id": "mimosas",
+    "title": "ASEC Mimosas",
+    "brand": "kappa",
+    "country": "ivorycoast",
+    "color1": "#FFFF00",
+    "color2": "#000000"
+  },
+  "beveren": {
+    "id": "beveren",
+    "title": "KSK Beveren",
+    "brand": "uhlsport",
+    "country": "belgium",
+    "color1": "#FFFF00",
+    "color2": "#1760BD"
+  },
+  "metalurh": {
+    "id": "metalurh",
+    "title": "FK Metalurh Donetsk",
+    "brand": "umbro",
+    "country": "ukraine",
+    "color1": "#00003C",
+    "color2": "#EAC534"
+  },
+  "olympiakos": {
+    "id": "olympiakos",
+    "title": "PAE Olympiakós",
+    "brand": "adidas",
+    "country": "greece",
+    "color1": "#FFFFFF",
+    "color2": "#FE0200"
+  },
+  "qingdao": {
+    "id": "qingdao",
+    "title": "Qīngdǎo Huánghǎi",
+    "brand": "kelme",
+    "country": "china",
+    "color1": "#0300BB",
+    "color2": "#DE0118"
+  },
+  "danubio": {
+    "id": "danubio",
+    "title": "Danubio",
+    "brand": "luanvi",
+    "country": "uruguay",
+    "color1": "#FFFFFF",
+    "color2": "#010101"
+  },
+  "palermo": {
+    "id": "palermo",
+    "title": "SSD Palermo",
+    "brand": "kappa",
+    "country": "italy",
+    "color1": "#FFC0C0",
+    "color2": "#000000"
+  },
+  "boyaca": {
+    "id": "boyaca",
+    "title": "Lanceros Boyacá",
+    "country": "colombia",
+    "color1": "#007727",
+    "color2": "#FF0000"
+  },
+  "luqueno": {
+    "id": "luqueno",
+    "title": "Club Sportivo Luqueño",
+    "brand": "lotto",
+    "country": "paraguay",
+    "color1": "#00008B",
+    "color2": "#FFCD00"
+  },
+  "guarani": {
+    "id": "guarani",
+    "title": "Club Guaraní",
+    "brand": "saltarinrojo",
+    "country": "paraguay",
+    "color1": "#FFFF00",
+    "color2": "#000000"
+  },
+  "sanlorenzo": {
+    "id": "sanlorenzo",
+    "title": "San Lorenzo de Almagro",
+    "brand": "nike",
+    "country": "argentina",
+    "color1": "#000040",
+    "color2": "#FF0000"
+  },
+  "estrasburgo": {
+    "id": "estrasburgo",
+    "title": "Racing Club Estrasburgo",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#0000CD",
+    "color2": "#FFFFFF"
+  },
+  "penarol": {
+    "id": "penarol",
+    "title": "Club Atlético Peñarol",
+    "brand": "puma",
+    "country": "uruguay",
+    "color1": "#FFE517",
+    "color2": "#010101"
+  },
+  "magdalena": {
+    "id": "magdalena",
+    "title": "Unión Magdalena",
+    "brand": "fss",
+    "country": "colombia",
+    "color1": "#142C8C",
+    "color2": "#D4003D"
+  },
+  "deportivocali": {
+    "id": "deportivocali",
+    "title": "Deportivo Cali",
+    "brand": "puma",
+    "country": "colombia",
+    "color1": "#018B57",
+    "color2": "#FFFFFF"
+  },
+  "tampabay": {
+    "id": "tampabay",
+    "title": "Tampa Bay Mutiny",
+    "brand": "kappa",
+    "country": "unitedstates",
+    "color1": "#87CEFA",
+    "color2": "#000080"
+  },
+  "miamifusion": {
+    "id": "miamifusion",
+    "title": "Miami Fusion",
+    "brand": "umbro",
+    "country": "unitedstates",
+    "color1": "#82DBF5",
+    "color2": "#002255"
+  },
+  "universidadcatolica": {
+    "id": "universidadcatolica",
+    "title": "Universidad Católica",
+    "brand": "under",
+    "country": "chile",
+    "color1": "#FFFFFF",
+    "color2": "#164DFF"
+  },
+  "olimpia": {
+    "id": "olimpia",
+    "title": "Olimpia",
+    "brand": "adidas",
+    "country": "paraguay",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "12octubre": {
+    "id": "12octubre",
+    "title": "12 de Octubre de Itauguá",
+    "brand": "lotto",
+    "country": "paraguay",
+    "color1": "#2662BD",
+    "color2": "#FFFFFF"
+  },
+  "audax": {
+    "id": "audax",
+    "title": "Audax Italiano La Florida",
+    "brand": "macron",
+    "country": "chile",
+    "color1": "#0066BD",
+    "color2": "#FFFFFF"
+  },
+  "lorient": {
+    "id": "lorient",
+    "title": "FC Lorient",
+    "brand": "kappa",
+    "country": "france",
+    "color1": "#FF7100",
+    "color2": "#000000"
+  },
+  "pau": {
+    "id": "pau",
+    "title": "Pau FC",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#FFEF00",
+    "color2": "#000054"
+  },
+  "kyiv": {
+    "id": "kyiv",
+    "title": "FC Dynamo Kyiv",
+    "brand": "newbalance",
+    "country": "ukraine",
+    "color1": "#FFFFFF",
+    "color2": "#0000FF"
+  },
+  "legia": {
+    "id": "legia",
+    "title": "Legia Warszawa",
+    "brand": "adidas",
+    "country": "poland",
+    "color1": "#00CF91",
+    "color2": "#000000"
+  },
+  "znicz": {
+    "id": "znicz",
+    "title": "Znicz Pruszków",
+    "brand": "zina",
+    "country": "poland",
+    "color1": "#F5F814",
+    "color2": "#FF0000"
+  },
+  "lech": {
+    "id": "lech",
+    "title": "KKS Lech Poznań",
+    "brand": "macron",
+    "country": "poland",
+    "color1": "#1313FF",
+    "color2": "#FFFFFF"
+  },
+  "sofia": {
+    "id": "sofia",
+    "title": "CSKA Sofia",
+    "brand": "adidas",
+    "country": "bulgaria",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "alnassr": {
+    "id": "alnassr",
+    "title": "Al-Nassr FC",
+    "country": "saudiarabia",
+    "color1": "#E9D02A",
+    "color2": "#242658"
+  },
+  "kashiwa": {
+    "id": "kashiwa",
+    "title": "Kashiwa Reysol",
+    "brand": "yonex",
+    "country": "japan",
+    "color1": "#FFFF00",
+    "color2": "#000000"
+  },
+  "maxaquene": {
+    "id": "maxaquene",
+    "title": "CD Maxaquene",
+    "country": "mozambique",
+    "color1": "#FF0000",
+    "color2": "#0000FF"
+  },
+  "boston": {
+    "id": "boston",
+    "title": "Boston Minutemen",
+    "country": "unitedstates",
+    "color1": "#FFFFFF",
+    "color2": "#0000CC"
+  },
+  "torontoblizzard": {
+    "id": "torontoblizzard",
+    "title": "Toronto Blizzard",
+    "brand": "adidasvintage",
+    "country": "canada",
+    "color1": "#FEFEFE",
+    "color2": "#FE1937"
+  },
+  "lasvegas": {
+    "id": "lasvegas",
+    "title": "Las Vegas Quicksilvers",
+    "country": "unitedstates",
+    "color1": "#FFFFFF",
+    "color2": "#1A1AE0"
+  },
+  "tomar": {
+    "id": "tomar",
+    "title": "União de Tomar",
+    "brand": "joma",
+    "country": "portugal",
+    "color1": "#FF0000",
+    "color2": "#000000"
+  },
+  "newjersey": {
+    "id": "newjersey",
+    "title": "New Jersey Americans",
+    "country": "unitedstates",
+    "color1": "#0A1D86",
+    "color2": "#BC2206"
+  },
+  "cafetaleros": {
+    "id": "cafetaleros",
+    "title": "Cafetaleros de Chiapas",
+    "brand": "silver",
+    "country": "mexico",
+    "color1": "#070707",
+    "color2": "#A67327"
+  },
+  "uaem": {
+    "id": "uaem",
+    "title": "Potros de la UAEM",
+    "brand": "kappa",
+    "country": "mexico",
+    "color1": "#175331",
+    "color2": "#C59f2f"
+  },
+  "lasvegaslights": {
+    "id": "lasvegaslights",
+    "title": "Las Vegas Lights FC",
+    "brand": "blk",
+    "country": "unitedstates",
+    "color1": "#000000",
+    "color2": "#80C7D6"
+  },
+  "vejle": {
+    "id": "vejle",
+    "title": "Vejle Boldklub",
+    "brand": "hummel",
+    "country": "denmark",
+    "color1": "#FB0000",
+    "color2": "#FEFEFE"
+  },
+  "mainz": {
+    "id": "mainz",
+    "title": "FSV Mainz 05",
+    "brand": "lotto",
+    "country": "germany",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "yucatan": {
+    "id": "yucatan",
+    "title": "Venados FC Yucatán",
+    "country": "mexico",
+    "color1": "#FFDF00",
+    "color2": "#FFFFFF"
+  },
+  "lapiedad": {
+    "id": "lapiedad",
+    "title": "Reboceros de La Piedad",
+    "brand": "silver",
+    "country": "mexico",
+    "color1": "#0000FF",
+    "color2": "#FFD955"
+  },
+  "guapiles": {
+    "id": "guapiles",
+    "title": "Santos de Guápiles",
+    "country": "costarica",
+    "color1": "#FE1929",
+    "color2": "#FFFFFF"
+  },
+  "kansascity": {
+    "id": "kansascity",
+    "title": "Sporting Kansas City",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#A0D0FF",
+    "color2": "#FFFFFF"
+  },
+  "carolina": {
+    "id": "carolina",
+    "title": "North Carolina FC",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#01426A",
+    "color2": "#808040"
+  },
+  "udeg": {
+    "id": "udeg",
+    "title": "Leones Negros de la UdeG",
+    "brand": "umbro",
+    "country": "mexico",
+    "color1": "#FFD602",
+    "color2": "#010101"
+  },
+  "alarabi": {
+    "id": "alarabi",
+    "title": "Al-Arabi Doha SC",
+    "brand": "puma",
+    "country": "qatar",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "reggiana": {
+    "id": "reggiana",
+    "title": "AC Reggiana 1919",
+    "brand": "errea",
+    "country": "italy",
+    "color1": "#810000",
+    "color2": "#192635"
+  },
+  "santacruz": {
+    "id": "santacruz",
+    "title": "Santa Cruz FC",
+    "brand": "cobracoral",
+    "country": "brazil",
+    "color1": "#FF0000",
+    "color2": "#000000"
+  },
+  "mogimirim": {
+    "id": "mogimirim",
+    "title": "Mogi Mirim",
+    "brand": "rhumell",
+    "country": "brazil",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "atenas": {
+    "id": "atenas",
+    "title": "AEK Atenas",
+    "brand": "capelli",
+    "country": "greece",
+    "color1": "#FFE000",
+    "color2": "#000000"
+  },
+  "bunyodkor": {
+    "id": "bunyodkor",
+    "title": "FK Bunyodkor",
+    "brand": "nike",
+    "country": "uzbekistan",
+    "color1": "#FFFFFF",
+    "color2": "#404040"
+  },
+  "kabuscorp": {
+    "id": "kabuscorp",
+    "title": "Kabuscorp SC",
+    "country": "angola",
+    "color1": "#FEFEFE",
+    "color2": "#FF0000"
+  },
+  "saocaetano": {
+    "id": "saocaetano",
+    "title": "São Caetano",
+    "brand": "icone",
+    "country": "brazil",
+    "color1": "#0000FF",
+    "color2": "#EF0000"
+  },
+  "vitoria": {
+    "id": "vitoria",
+    "title": "EC Vitória",
+    "brand": "kappa",
+    "country": "brazil",
+    "color1": "#000000",
+    "color2": "#FF0000"
+  },
+  "bahia": {
+    "id": "bahia",
+    "title": "EC Bahia",
+    "brand": "esquadrao",
+    "country": "brazil",
+    "color1": "#FFFFFF",
+    "color2": "#0033BB"
+  },
+  "boulogne": {
+    "id": "boulogne",
+    "title": "US Boulogne",
+    "brand": "puma",
+    "country": "france",
+    "color1": "#FF0000",
+    "color2": "#000000"
+  },
+  "ales": {
+    "id": "ales",
+    "title": "Olympique Alès",
+    "brand": "macron",
+    "country": "france",
+    "color1": "#003399",
+    "color2": "#FFFFFF"
+  },
+  "brestois": {
+    "id": "brestois",
+    "title": "Stade Brestois 29",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "metz": {
+    "id": "metz",
+    "title": "FC Metz",
+    "brand": "kappa",
+    "country": "france",
+    "color1": "#770000",
+    "color2": "#FFFFFF"
+  },
+  "angers": {
+    "id": "angers",
+    "title": "Angers SCO",
+    "brand": "kappa",
+    "country": "france",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "reims": {
+    "id": "reims",
+    "title": "Stade de Reims",
+    "brand": "umbro",
+    "country": "france",
+    "color1": "#E50000",
+    "color2": "#FFFFFF"
+  },
+  "swansea": {
+    "id": "swansea",
+    "title": "Swansea City AFC",
+    "brand": "joma",
+    "country": "wales",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "nottingham": {
+    "id": "nottingham",
+    "title": "Nottingham Forest",
+    "brand": "macron",
+    "country": "england",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "nagoya": {
+    "id": "nagoya",
+    "title": "Nagoya Grampus",
+    "brand": "mizuno",
+    "country": "japan",
+    "color1": "#FF0000",
+    "color2": "#0B0B0B"
+  },
+  "preston": {
+    "id": "preston",
+    "title": "Preston North End FC",
+    "brand": "nike",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#000040"
+  },
+  "waterford": {
+    "id": "waterford",
+    "title": "Waterford United FC",
+    "brand": "umbro",
+    "country": "ireland",
+    "color1": "#0000F5",
+    "color2": "#FFF000"
+  },
+  "dunstable": {
+    "id": "dunstable",
+    "title": "Dunstable Town FC",
+    "brand": "macron",
+    "country": "england",
+    "color1": "#002366",
+    "color2": "#FFFFFF"
+  },
+  "stockport": {
+    "id": "stockport",
+    "title": "Stockport County FC",
+    "brand": "puma",
+    "country": "england",
+    "color1": "#003CFF",
+    "color2": "#123163"
+  },
+  "cork": {
+    "id": "cork",
+    "title": "Cork Celtic FC",
+    "brand": "adidas",
+    "country": "ireland",
+    "color1": "#008000",
+    "color2": "#FFFFFF"
+  },
+  "hibernian": {
+    "id": "hibernian",
+    "title": "Hibernian FC",
+    "brand": "macron",
+    "country": "scotland",
+    "color1": "#009E00",
+    "color2": "#FFFFFF"
+  },
+  "bournemouth": {
+    "id": "bournemouth",
+    "title": "AFC Bournemouth",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#D10000",
+    "color2": "#000000"
+  },
+  "queensland": {
+    "id": "queensland",
+    "title": "Queensland Lions FC",
+    "brand": "kappa",
+    "country": "australia",
+    "color1": "#FF6600",
+    "color2": "#0000FF"
+  },
+  "tobermore": {
+    "id": "tobermore",
+    "title": "Tobermore United FC",
+    "brand": "nike",
+    "country": "northernireland",
+    "color1": "#FF0000",
+    "color2": "#000000"
+  },
+  "huddersfield": {
+    "id": "huddersfield",
+    "title": "Huddersfield Town AFC",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#0074D0"
+  },
+  "torino": {
+    "id": "torino",
+    "title": "Torino FC",
+    "brand": "joma",
+    "country": "italy",
+    "color1": "#810000",
+    "color2": "#FFFFFF"
+  },
+  "clausenengen": {
+    "id": "clausenengen",
+    "title": "Clausenengen FK",
+    "brand": "umbro",
+    "country": "norway",
+    "color1": "#FFFFFF",
+    "color2": "#0000CC"
+  },
+  "molde": {
+    "id": "molde",
+    "title": "Molde FK",
+    "brand": "nike",
+    "country": "norway",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "cobh": {
+    "id": "cobh",
+    "title": "Cobh Ramblers FC",
+    "brand": "joma",
+    "country": "ireland",
+    "color1": "#890000",
+    "color2": "#99DDF5"
+  },
+  "bryne": {
+    "id": "bryne",
+    "title": "Bryne FK",
+    "country": "norway",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "crystalpalace": {
+    "id": "crystalpalace",
+    "title": "Crystal Palace FC",
+    "brand": "puma",
+    "country": "england",
+    "color1": "#0000FF",
+    "color2": "#FF0005"
+  },
+  "barnet": {
+    "id": "barnet",
+    "title": "Barnet FC",
+    "brand": "jako",
+    "country": "england",
+    "color1": "#FE7A00",
+    "color2": "#000000"
+  },
+  "merida": {
+    "id": "merida",
+    "title": "CP Mérida",
+    "brand": "puma",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#289C7E"
+  },
+  "sagantosu": {
+    "id": "sagantosu",
+    "title": "Sagan Tosu",
+    "brand": "newbalance",
+    "country": "japan",
+    "color1": "#007AD0",
+    "color2": "#FF18AD"
+  },
+  "alahlisc": {
+    "id": "alahlisc",
+    "title": "Al Ahli SC",
+    "brand": "jako",
+    "country": "qatar",
+    "color1": "#008800",
+    "color2": "#FFFFFF"
+  },
+  "stuttgarter": {
+    "id": "stuttgarter",
+    "title": "Stuttgarter Kickers",
+    "brand": "uhlsport",
+    "country": "germany",
+    "color1": "#7EBAF9",
+    "color2": "#000000"
+  },
+  "offenbach": {
+    "id": "offenbach",
+    "title": "Kickers Offenbach",
+    "brand": "nike",
+    "country": "germany",
+    "color1": "#8E0608",
+    "color2": "#FFFFFF"
+  },
+  "servette": {
+    "id": "servette",
+    "title": "Servette FC",
+    "brand": "puma",
+    "country": "switzerland",
+    "color1": "#890000",
+    "color2": "#000060"
+  },
+  "perugia": {
+    "id": "perugia",
+    "title": "AC Perugia Calcio",
+    "brand": "frankiegarage",
+    "country": "italy",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "rangers": {
+    "id": "rangers",
+    "title": "Rangers FC",
+    "brand": "castore",
+    "country": "scotland",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "salernitana": {
+    "id": "salernitana",
+    "title": "US Salernitana 1919",
+    "brand": "zeus",
+    "country": "italy",
+    "color1": "#810000",
+    "color2": "#000000"
+  },
+  "sion": {
+    "id": "sion",
+    "title": "FC Sion",
+    "brand": "macron",
+    "country": "switzerland",
+    "color1": "#FFFFFF",
+    "color2": "#FF0000"
+  },
+  "chennaiyin": {
+    "id": "chennaiyin",
+    "title": "Chennaiyin FC",
+    "brand": "performax",
+    "country": "india",
+    "color1": "#000080",
+    "color2": "#FFFFFF"
+  },
+  "vicenza": {
+    "id": "vicenza",
+    "title": "LR Vicenza Virtus",
+    "brand": "lotto",
+    "country": "italy",
+    "color1": "#FFFFFF",
+    "color2": "#F40000"
+  },
+  "bologna": {
+    "id": "bologna",
+    "title": "Bologna FC 1909",
+    "brand": "macron",
+    "country": "italy",
+    "color1": "#00003E",
+    "color2": "#CF0E13"
+  },
+  "mechelen": {
+    "id": "mechelen",
+    "title": "KV Mechelen",
+    "brand": "jartazi",
+    "country": "belgium",
+    "color1": "#FF0000",
+    "color2": "#FFFF00"
+  },
+  "lierse": {
+    "id": "lierse",
+    "title": "K Lierse SK",
+    "brand": "jako",
+    "country": "belgium",
+    "color1": "#FFF30F",
+    "color2": "#000000"
+  },
+  "trabzonspor": {
+    "id": "trabzonspor",
+    "title": "Trabzonspor",
+    "brand": "macron",
+    "country": "turkey",
+    "color1": "#0092CE",
+    "color2": "#660000"
+  },
+  "newengland": {
+    "id": "newengland",
+    "title": "New England Revolution",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#001946",
+    "color2": "#FF0000"
+  },
+  "seattle": {
+    "id": "seattle",
+    "title": "Seattle Sounders FC",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#39AD04",
+    "color2": "#003E81"
+  },
+  "chievoverona": {
+    "id": "chievoverona",
+    "title": "AC ChievoVerona",
+    "brand": "ginova",
+    "country": "italy",
+    "color1": "#FFFF00",
+    "color2": "#0000FF"
+  },
+  "toronto": {
+    "id": "toronto",
+    "title": "Toronto FC",
+    "brand": "adidas",
+    "country": "canada",
+    "color1": "#FF0000",
+    "color2": "#EFEFEF"
+  },
+  "columbus": {
+    "id": "columbus",
+    "title": "Columbus Crew SC",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#FFFF00",
+    "color2": "#000000"
+  },
+  "elnacional": {
+    "id": "elnacional",
+    "title": "El Nacional",
+    "brand": "lotto",
+    "country": "ecuador",
+    "color1": "#F90612",
+    "color2": "#00254A"
+  },
+  "eljaish": {
+    "id": "eljaish",
+    "title": "El-Jaish SC",
+    "brand": "nike",
+    "country": "qatar",
+    "color1": "#8B0000",
+    "color2": "#FFFFFF"
+  },
+  "barranquilla": {
+    "id": "barranquilla",
+    "title": "Sporting Club de Barranquilla",
+    "country": "colombia",
+    "color1": "#FFFF00",
+    "color2": "#000000"
+  },
+  "gimnasia": {
+    "id": "gimnasia",
+    "title": "Gimnasia y Esgrima La Plata",
+    "brand": "lecoq",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#000040"
+  },
+  "platense": {
+    "id": "platense",
+    "title": "Club Atlético Platense",
+    "brand": "kelme",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#3E2313"
+  },
+  "unionespanola": {
+    "id": "unionespanola",
+    "title": "Unión Española",
+    "brand": "kappa",
+    "country": "chile",
+    "color1": "#D40000",
+    "color2": "#0048B6"
+  },
+  "neza": {
+    "id": "neza",
+    "title": "Neza FC",
+    "brand": "keuka",
+    "country": "mexico",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "maritimo": {
+    "id": "maritimo",
+    "title": "CS Marítimo",
+    "brand": "nike",
+    "country": "portugal",
+    "color1": "#007500",
+    "color2": "#FF0909"
+  },
+  "invincibleeleven": {
+    "id": "invincibleeleven",
+    "title": "Invincible Eleven",
+    "country": "liberia",
+    "color1": "#FDCF41",
+    "color2": "#293860"
+  },
+  "tonnerre": {
+    "id": "tonnerre",
+    "title": "Tonnerre Yaoundé",
+    "country": "cameroon",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "aljazira": {
+    "id": "aljazira",
+    "title": "Al-Jazira SC",
+    "brand": "puma",
+    "country": "unitedarabemirates",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "sabadell": {
+    "id": "sabadell",
+    "title": "CE Sabadell",
+    "brand": "hummel",
+    "country": "spain",
+    "color1": "#003F92",
+    "color2": "#FFFFFF"
+  },
+  "bolivar": {
+    "id": "bolivar",
+    "title": "Club Bolívar",
+    "brand": "puma",
+    "country": "bolivia",
+    "color1": "#55B1DE",
+    "color2": "#013F6E"
+  },
+  "valenciennes": {
+    "id": "valenciennes",
+    "title": "Valenciennes FC",
+    "brand": "acerbis",
+    "country": "france",
+    "color1": "#CC1E1E",
+    "color2": "#FFFFFF"
+  },
+  "cerroporteno": {
+    "id": "cerroporteno",
+    "title": "Club Cerro Porteño",
+    "brand": "puma",
+    "country": "paraguay",
+    "color1": "#FF0000",
+    "color2": "#000066"
+  },
+  "genclerbirligi": {
+    "id": "genclerbirligi",
+    "title": "Gençlerbirliği SK",
+    "brand": "macron",
+    "country": "turkey",
+    "color1": "#DF0808",
+    "color2": "#000000"
+  },
+  "ankaragucu": {
+    "id": "ankaragucu",
+    "title": "MKE Ankaragücü",
+    "brand": "nike",
+    "country": "turkey",
+    "color1": "#000050",
+    "color2": "#FFDD00"
+  },
+  "sochaux": {
+    "id": "sochaux",
+    "title": "MFC Sochaux-Montbéliard",
+    "brand": "nike",
+    "country": "france",
+    "color1": "#FFFF00",
+    "color2": "#0000FF"
+  },
+  "lens": {
+    "id": "lens",
+    "title": "RC Lens",
+    "brand": "macron",
+    "country": "france",
+    "color1": "#FFF000",
+    "color2": "#FF0000"
+  },
+  "doncaster": {
+    "id": "doncaster",
+    "title": "Doncaster Rovers FC",
+    "country": "england",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "sabah": {
+    "id": "sabah",
+    "title": "Sabah FC",
+    "brand": "lotto",
+    "country": "malaysia",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "dijon": {
+    "id": "dijon",
+    "title": "Dijon FCO",
+    "brand": "lotto",
+    "country": "france",
+    "color1": "#FF2424",
+    "color2": "#000000"
+  },
+  "lehavre": {
+    "id": "lehavre",
+    "title": "Le Havre Athletic Club",
+    "brand": "joma",
+    "country": "france",
+    "color1": "#000066",
+    "color2": "#AAE3F3"
+  },
+  "mumbai": {
+    "id": "mumbai",
+    "title": "Mumbai City FC",
+    "brand": "puma",
+    "country": "india",
+    "color1": "#81C0FF",
+    "color2": "#DFEFFF"
+  },
+  "kitchee": {
+    "id": "kitchee",
+    "title": "Kitchee SC",
+    "brand": "nike",
+    "country": "hongkong",
+    "color1": "#81C0FF",
+    "color2": "#DFEFFF"
+  },
+  "venezia": {
+    "id": "venezia",
+    "title": "Venezia FC",
+    "brand": "kappa",
+    "country": "italy",
+    "color1": "#060502",
+    "color2": "#B39B56"
+  },
+  "panionios": {
+    "id": "panionios",
+    "title": "PAE Panionios GSS",
+    "brand": "luanvi",
+    "country": "greece",
+    "color1": "#CA0000",
+    "color2": "#262985"
+  },
+  "montevideo": {
+    "id": "montevideo",
+    "title": "Montevideo Wanderers FC",
+    "brand": "umbro",
+    "country": "uruguay",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "racingcf": {
+    "id": "racingcf",
+    "title": "Racing Club de France",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#B0DAF0",
+    "color2": "#FFFFFF"
+  },
+  "cagliari": {
+    "id": "cagliari",
+    "title": "Cagliari Calcio",
+    "brand": "adidas",
+    "country": "italy",
+    "color1": "#D84646",
+    "color2": "#353B5F"
+  },
+  "sudamerica": {
+    "id": "sudamerica",
+    "title": "Sud América",
+    "brand": "starbade",
+    "country": "uruguay",
+    "color1": "#FF5C00",
+    "color2": "#000000"
+  },
+  "racingmontevideo": {
+    "id": "racingmontevideo",
+    "title": "Racing Club de Montevideo",
+    "brand": "macron",
+    "country": "uruguay",
+    "color1": "#008100",
+    "color2": "#FFFFFF"
+  },
+  "cobreloa": {
+    "id": "cobreloa",
+    "title": "CD Cobreloa",
+    "brand": "macron",
+    "country": "chile",
+    "color1": "#FF6600",
+    "color2": "#FFFFFF"
+  },
+  "americacali": {
+    "id": "americacali",
+    "title": "América de Cali",
+    "brand": "umbro",
+    "country": "colombia",
+    "color1": "#F03535",
+    "color2": "#FFFFFF"
+  }
+}

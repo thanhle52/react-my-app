@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1234.0588pt"
+   height="162.00191pt"
+   viewBox="0 0 1234.0588 162.00191"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg20"
+   sodipodi:docname="Logo_Givova_1.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1424"
+     id="namedview22"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.30371094"
+     inkscape:cx="-9.5387231"
+     inkscape:cy="157.33587"
+     inkscape:window-x="0"
+     inkscape:window-y="88"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <g
+     transform="matrix(0.1,0,0,-0.1,-291.14118,178)"
+     id="g18"
+     style="fill:currentColor;stroke:none">
+    <path
+       d="m 3284,1769 c -151,-19 -291,-149 -345,-319 -19,-58 -22,-98 -26,-375 -6,-338 5,-534 33,-605 46,-118 130,-212 238,-267 l 69,-35 796,2 796,1 66,39 c 79,47 157,129 193,203 45,90 56,172 63,445 l 6,252 H 4547 3920 V 965 820 h 445 445 V 716 c 0,-98 -2,-106 -26,-135 l -26,-31 h -646 c -356,0 -684,3 -730,7 -124,9 -116,-18 -120,419 l -3,362 33,31 33,31 h 923 922 v 190 190 l -912,-1 c -502,-1 -941,-5 -974,-10 z"
+       id="path6"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 5340,970 V 160 h 195 195 v 553 c 0,305 -3,669 -7,810 l -6,257 h -189 -188 z"
+       id="path8"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 5870,1775 c 0,-3 202,-324 449,-713 246,-389 474,-748 505,-798 67,-108 55,-104 277,-104 138,0 147,1 166,23 22,22 1031,1561 1040,1585 4,10 -41,12 -218,10 l -223,-3 -239,-365 C 7496,1209 7320,940 7235,812 l -153,-234 -52,73 c -28,41 -202,311 -387,601 l -336,528 h -219 c -120,0 -218,-2 -218,-5 z"
+       id="path10"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 8750,1770 c -164,-23 -307,-163 -357,-351 -14,-55 -17,-119 -17,-454 -1,-376 0,-392 21,-460 41,-128 144,-254 251,-307 l 47,-23 805,-3 805,-2 64,37 c 116,69 211,192 241,314 16,64 24,648 11,799 -9,111 -14,133 -46,197 -41,82 -128,175 -203,216 -28,15 -79,31 -118,37 -80,11 -1420,11 -1504,0 z m 1482,-397 c 15,-16 32,-41 37,-56 7,-18 11,-152 11,-366 V 614 l -34,-33 -34,-33 -721,4 c -675,3 -721,4 -738,21 -17,16 -18,46 -18,392 v 374 l 23,23 c 21,21 34,23 165,29 78,3 399,6 713,7 l 570,2 z"
+       id="path12"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 10962,1348 c 248,-396 601,-953 708,-1121 l 44,-67 h 120 c 67,0 151,3 188,7 l 68,6 449,686 c 246,377 483,739 525,804 l 76,117 -227,-2 -226,-3 -229,-350 c -442,-676 -550,-836 -564,-833 -8,2 -162,237 -343,523 -181,286 -350,553 -376,593 l -46,72 h -219 -219 z"
+       id="path14"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 13570,1770 c -82,-11 -147,-47 -221,-121 -70,-69 -119,-155 -138,-239 -5,-25 -13,-315 -17,-647 l -7,-603 h 201 202 v 265 265 h 670 670 V 425 160 h 161 161 l -4,613 c -4,596 -5,614 -26,677 -45,136 -151,253 -272,303 -55,22 -57,22 -690,23 -349,1 -660,-2 -690,-6 z m 1331,-402 39,-31 v -164 -163 h -676 -676 l 4,159 c 3,144 5,162 24,188 l 21,28 274,5 c 151,3 426,7 612,8 l 338,2 z"
+       id="path16"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

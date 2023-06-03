@@ -1,0 +1,3053 @@
+{
+  "ikercasillas": {
+    "name": "Iker Casillas",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["realmadrid", "porto"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 3
+  },
+  "zinedinezidane": {
+    "name": "Zinedine Zidane",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["cannes", "bordeaux", "juventus", "realmadrid"],
+    "nationalTeam": "france",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 4
+  },
+  "ronaldo": {
+    "name": "Ronaldo",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "cruzeiro",
+      "psv",
+      "barcelona",
+      "inter",
+      "realmadrid",
+      "milan",
+      "corinthians"
+    ],
+    "nationalTeam": "brazil",
+    "retired": true,
+    "worldCups": 2
+  },
+  "raul": {
+    "name": "Raúl",
+    "number": 7,
+    "position": "SS",
+    "clubs": ["realmadrid", "schalke", "alsadd", "cosmos"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 3
+  },
+  "luisfigo": {
+    "name": "Luís Figo",
+    "number": 7,
+    "position": "RW",
+    "clubs": ["sporting", "barcelona", "realmadrid", "inter"],
+    "nationalTeam": "portugal",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "davidbeckham": {
+    "name": "David Beckham",
+    "number": 7,
+    "position": "RM",
+    "clubs": ["manchesterunited", "realmadrid", "galaxy", "milan", "psg"],
+    "nationalTeam": "england",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "jorgecampos": {
+    "name": "Jorge Campos",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "unam",
+      "atlante",
+      "galaxy",
+      "cruzazul",
+      "chicago",
+      "uanl",
+      "puebla"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "hugosanchez": {
+    "name": "Hugo Sánchez",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "unam",
+      "sandiego",
+      "atleticomadrid",
+      "realmadrid",
+      "america",
+      "rayovallecano",
+      "atlante",
+      "linz",
+      "dallas",
+      "celaya"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "cuauhtemocblanco": {
+    "name": "Cuauhtémoc Blanco",
+    "number": 10,
+    "position": "SS",
+    "clubs": [
+      "america",
+      "necaxa",
+      "realvalladolid",
+      "veracruz",
+      "chicago",
+      "santoslaguna",
+      "irapuato",
+      "dorados",
+      "buap",
+      "puebla"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "rafaelmarquez": {
+    "name": "Rafael Márquez",
+    "number": 4,
+    "position": "CB",
+    "clubs": [
+      "atlas",
+      "monaco",
+      "barcelona",
+      "newyork",
+      "leon",
+      "hellasverona"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true,
+    "championsLeagues": 2
+  },
+  "pele": {
+    "name": "Pelé",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["santos", "cosmos"],
+    "nationalTeam": "brazil",
+    "retired": true,
+    "worldCups": 3
+  },
+  "diegomaradona": {
+    "name": "Diego Armando Maradona",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "argentinos",
+      "bocajuniors",
+      "barcelona",
+      "napoli",
+      "sevilla",
+      "newells"
+    ],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "worldCups": 1
+  },
+  "lionelmessi": {
+    "name": "Lionel Messi",
+    "number": 10,
+    "position": "RW",
+    "clubs": ["barcelona", "psg"],
+    "nationalTeam": "argentina",
+    "championsLeagues": 4
+  },
+  "cristianoronaldo": {
+    "name": "Cristiano Ronaldo",
+    "number": 7,
+    "position": "LW",
+    "clubs": ["sporting", "manchesterunited", "realmadrid", "juventus"],
+    "nationalTeam": "portugal",
+    "championsLeagues": 5,
+    "last": "manchesterunited"
+  },
+  "oliverkahn": {
+    "name": "Oliver Kahn",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["karlsruher", "bayernmunich"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "gianluigibuffon": {
+    "name": "Gianluigi Buffon",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["parma", "juventus", "psg"],
+    "nationalTeam": "italy",
+    "worldCups": 1,
+    "last": "juventus"
+  },
+  "fabiocoentrao": {
+    "name": "Fábio Coentrão",
+    "number": 5,
+    "position": "LB",
+    "clubs": [
+      "rioave",
+      "benfica",
+      "nacionalmadeira",
+      "realzaragoza",
+      "realmadrid",
+      "monaco",
+      "sporting"
+    ],
+    "nationalTeam": "portugal",
+    "championsLeagues": 2
+  },
+  "franzbeckenbauer": {
+    "name": "Franz Beckenbauer",
+    "number": 5,
+    "position": "SW",
+    "clubs": ["bayernmunich", "cosmos", "hamburger"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 2,
+    "championsLeagues": 3
+  },
+  "johancruyff": {
+    "name": "Johan Cruyff",
+    "number": 14,
+    "position": "AM",
+    "clubs": [
+      "ajax",
+      "barcelona",
+      "aztecs",
+      "diplomats",
+      "levante",
+      "feyenoord"
+    ],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "championsLeagues": 4
+  },
+  "michelplatini": {
+    "name": "Michel Platini",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["nancy", "saintetienne", "juventus"],
+    "nationalTeam": "france",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "robertocarlos": {
+    "name": "Roberto‏‏‎|Carlos",
+    "number": 6,
+    "position": "LB",
+    "clubs": [
+      "uniaosaojoao",
+      "palmeiras",
+      "inter",
+      "realmadrid",
+      "fenerbahce",
+      "corinthians",
+      "anzhi"
+    ],
+    "nationalTeam": "brazil",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 3
+  },
+  "ferencpuskas": {
+    "name": "Ferenc Puskás",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["budapest", "realmadrid"],
+    "nationalTeam": "hungary",
+    "retired": true,
+    "championsLeagues": 3
+  },
+  "levyashin": {
+    "name": "Lev Yashin",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["dynamomoscow"],
+    "nationalTeam": "russia",
+    "retired": true
+  },
+  "alfredodistefano": {
+    "name": "Alfredo Di|Stéfano",
+    "number": 9,
+    "position": "SS",
+    "clubs": ["riverplate", "huracan", "millonarios", "realmadrid", "espanyol"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 5
+  },
+  "dinozoff": {
+    "name": "Dino Zoff",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["udinese", "mantova", "napoli", "juventus"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "worldCups": 1
+  },
+  "luishernandez": {
+    "name": "Luis Hernández",
+    "number": 15,
+    "position": "CF",
+    "clubs": [
+      "cruzazul",
+      "queretaro",
+      "monterrey",
+      "necaxa",
+      "bocajuniors",
+      "uanl",
+      "galaxy",
+      "america",
+      "veracruz",
+      "chiapas",
+      "buap"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "carloshermosillo": {
+    "name": "Carlos Hermosillo",
+    "number": 27,
+    "position": "CF",
+    "clubs": [
+      "america",
+      "standardliege",
+      "monterrey",
+      "cruzazul",
+      "necaxa",
+      "galaxy",
+      "atlante",
+      "guadalajara"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "cafu": {
+    "name": "Cafú",
+    "number": 2,
+    "position": "RB",
+    "clubs": ["saopaulo", "realzaragoza", "palmeiras", "roma", "milan"],
+    "nationalTeam": "brazil",
+    "retired": true,
+    "worldCups": 2,
+    "championsLeagues": 1
+  },
+  "andresguardado": {
+    "name": "Andrés Guardado",
+    "number": 18,
+    "position": "CM",
+    "clubs": [
+      "atlas",
+      "deportivocoruna",
+      "valencia",
+      "leverkusen",
+      "psv",
+      "realbetis"
+    ],
+    "nationalTeam": "mexico"
+  },
+  "ronaldinho": {
+    "name": "Ronaldinho",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "gremio",
+      "psg",
+      "barcelona",
+      "milan",
+      "flamengo",
+      "atleticomineiro",
+      "queretaro",
+      "fluminense"
+    ],
+    "nationalTeam": "brazil",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 1
+  },
+  "carlossalcido": {
+    "name": "Carlos Salcido",
+    "number": 3,
+    "position": "CB",
+    "clubs": ["guadalajara", "psv", "fulham", "uanl", "veracruz"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "guti": {
+    "name": "Guti",
+    "number": 14,
+    "position": "CM",
+    "clubs": ["realmadrid", "besiktas"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 3
+  },
+  "garethbale": {
+    "name": "Gareth Bale",
+    "number": 11,
+    "position": "RW",
+    "clubs": ["southampton", "tottenham", "realmadrid"],
+    "nationalTeam": "wales",
+    "championsLeagues": 4
+  },
+  "javierhernandez": {
+    "name": "Javier Hernández",
+    "number": 14,
+    "position": "CF",
+    "clubs": [
+      "guadalajara",
+      "manchesterunited",
+      "realmadrid",
+      "leverkusen",
+      "westham",
+      "sevilla",
+      "galaxy"
+    ],
+    "nationalTeam": "mexico"
+  },
+  "manuelneuer": {
+    "name": "Manuel Neuer",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["schalke", "bayernmunich"],
+    "nationalTeam": "germany",
+    "worldCups": 1,
+    "championsLeagues": 1
+  },
+  "karimbenzema": {
+    "name": "Karim Benzema",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["olympiquelyon", "realmadrid"],
+    "nationalTeam": "france",
+    "championsLeagues": 4
+  },
+  "fernandohierro": {
+    "name": "Fernando Hierro",
+    "number": 4,
+    "position": "CB",
+    "clubs": ["realvalladolid", "realmadrid", "alrayyan", "bolton"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 3
+  },
+  "carlosvela": {
+    "name": "Carlos Vela",
+    "number": 11,
+    "position": "RW",
+    "clubs": [
+      "salamanca",
+      "osasuna",
+      "arsenal",
+      "westbromwich",
+      "realsociedad",
+      "losangeles"
+    ],
+    "nationalTeam": "mexico"
+  },
+  "guillermoochoa": {
+    "name": "Guillermo Ochoa",
+    "number": 13,
+    "position": "GK",
+    "clubs": ["america", "ajaccio", "malaga", "granada", "standardliege"],
+    "nationalTeam": "mexico",
+    "last": "america"
+  },
+  "rauljimenez": {
+    "name": "Raúl Jiménez",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["america", "atleticomadrid", "benfica", "wolverhampton"],
+    "nationalTeam": "mexico"
+  },
+  "hirvinglozano": {
+    "name": "Hirving Lozano",
+    "number": 22,
+    "position": "LW",
+    "clubs": ["pachuca", "psv", "napoli"],
+    "nationalTeam": "mexico"
+  },
+  "hectorherrera": {
+    "name": "Héctor Herrera",
+    "number": 16,
+    "position": "CM",
+    "clubs": ["pachuca", "porto", "atleticomadrid"],
+    "nationalTeam": "mexico"
+  },
+  "jesuscorona": {
+    "name": "Jesús Corona",
+    "number": 17,
+    "position": "RW",
+    "clubs": ["monterrey", "twente", "porto"],
+    "nationalTeam": "mexico"
+  },
+  "keylornavas": {
+    "name": "Keylor Navas",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["saprissa", "albacete", "levante", "realmadrid", "psg"],
+    "nationalTeam": "costarica",
+    "championsLeagues": 3
+  },
+  "hectormoreno": {
+    "name": "Héctor Moreno",
+    "number": 15,
+    "position": "CB",
+    "clubs": [
+      "unam",
+      "alkmaar",
+      "espanyol",
+      "psv",
+      "roma",
+      "realsociedad",
+      "algharafa"
+    ],
+    "nationalTeam": "mexico"
+  },
+  "carlespuyol": {
+    "name": "Carles Puyol",
+    "number": 5,
+    "position": "CB",
+    "clubs": ["barcelona"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 3
+  },
+  "miguellayun": {
+    "name": "Miguel Layún",
+    "number": 7,
+    "position": "RB",
+    "clubs": [
+      "veracruz",
+      "atalanta",
+      "america",
+      "watford",
+      "porto",
+      "sevilla",
+      "villarreal",
+      "monterrey"
+    ],
+    "nationalTeam": "mexico"
+  },
+  "sergioramos": {
+    "name": "Sergio Ramos",
+    "number": 4,
+    "position": "CB",
+    "clubs": ["sevilla", "realmadrid"],
+    "nationalTeam": "spain",
+    "worldCups": 1,
+    "championsLeagues": 4
+  },
+  "erickgutierrez": {
+    "name": "Erick Gutiérrez",
+    "number": 15,
+    "position": "CM",
+    "clubs": ["pachuca", "psv"],
+    "nationalTeam": "mexico"
+  },
+  "diegolainez": {
+    "name": "Diego Lainez",
+    "number": 20,
+    "position": "LW",
+    "clubs": ["america", "realbetis"],
+    "nationalTeam": "mexico"
+  },
+  "edsonalvarez": {
+    "name": "Edson Álvarez",
+    "number": 4,
+    "position": "CB",
+    "clubs": ["america", "ajax"],
+    "nationalTeam": "mexico"
+  },
+  "nestoraraujo": {
+    "name": "Néstor Araújo",
+    "number": 2,
+    "position": "CB",
+    "clubs": ["cruzazul", "santoslaguna", "celtadevigo"],
+    "nationalTeam": "mexico"
+  },
+  "diegoreyes": {
+    "name": "Diego Reyes",
+    "number": 5,
+    "position": "CB",
+    "clubs": [
+      "america",
+      "porto",
+      "realsociedad",
+      "espanyol",
+      "fenerbahce",
+      "leganes",
+      "uanl"
+    ],
+    "nationalTeam": "mexico"
+  },
+  "carlossalcedo": {
+    "name": "Carlos Salcedo",
+    "number": 3,
+    "position": "CB",
+    "clubs": ["realsaltlake", "guadalajara", "fiorentina", "frankfurt", "uanl"],
+    "nationalTeam": "mexico"
+  },
+  "lukamodric": {
+    "name": "Luka Modrić",
+    "number": 10,
+    "position": "CM",
+    "clubs": ["mostar", "zapresic", "dinamozagreb", "tottenham", "realmadrid"],
+    "nationalTeam": "croatia",
+    "championsLeagues": 4
+  },
+  "edwinvandersar": {
+    "name": "Edwin van|der|Sar",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["ajax", "juventus", "fulham", "manchesterunited"],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "championsLeagues": 2
+  },
+  "jayjayokocha": {
+    "name": "Jay-Jay Okocha",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "neunkirchen",
+      "frankfurt",
+      "fenerbahce",
+      "psg",
+      "bolton",
+      "qatarsc",
+      "hullcity"
+    ],
+    "nationalTeam": "nigeria",
+    "retired": true
+  },
+  "oswaldosanchez": {
+    "name": "Oswaldo Sánchez",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["atlas", "america", "guadalajara", "santoslaguna"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "andresiniesta": {
+    "name": "Andrés Iniesta",
+    "number": 6,
+    "position": "CM",
+    "clubs": ["barcelona", "kobe"],
+    "nationalTeam": "spain",
+    "worldCups": 1,
+    "championsLeagues": 4
+  },
+  "hugolloris": {
+    "name": "Hugo Lloris",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["nice", "olympiquelyon", "tottenham"],
+    "nationalTeam": "france",
+    "worldCups": 1
+  },
+  "xavihernandez": {
+    "name": "Xavi|Hernández",
+    "number": 8,
+    "position": "CM",
+    "clubs": ["barcelona", "alsadd"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 4
+  },
+  "claudiosuarez": {
+    "name": "Claudio Suárez",
+    "number": 2,
+    "position": "CB",
+    "clubs": ["unam", "guadalajara", "uanl", "chivasusa"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "edindzeko": {
+    "name": "Edin Džeko",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["zeljeznicar", "teplice", "wolfsburg", "manchestercity", "roma"],
+    "nationalTeam": "bosnia"
+  },
+  "rusturecber": {
+    "name": "Rüştü Reçber",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["fenerbahce", "barcelona", "besiktas"],
+    "nationalTeam": "turkey",
+    "retired": true
+  },
+  "kaka": {
+    "name": "Kaká",
+    "number": 22,
+    "position": "AM",
+    "clubs": ["saopaulo", "milan", "realmadrid", "orlando"],
+    "nationalTeam": "brazil",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 1
+  },
+  "pavelpardo": {
+    "name": "Pável Pardo",
+    "number": 8,
+    "position": "DM",
+    "clubs": ["atlas", "tecos", "america", "stuttgart", "chicago"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "waynerooney": {
+    "name": "Wayne Rooney",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["everton", "manchesterunited", "dcunited", "derbycounty"],
+    "nationalTeam": "england",
+    "championsLeagues": 1,
+    "retired": true
+  },
+  "alissonbecker": {
+    "name": "Alisson Becker",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["internacional", "roma", "liverpool"],
+    "nationalTeam": "brazil",
+    "championsLeagues": 1
+  },
+  "landondonovan": {
+    "name": "Landon Donovan",
+    "number": 10,
+    "position": "SS",
+    "clubs": [
+      "leverkusen",
+      "earthquakes",
+      "galaxy",
+      "bayernmunich",
+      "everton",
+      "leon"
+    ],
+    "nationalTeam": "unitedstates",
+    "retired": true
+  },
+  "jaredborgetti": {
+    "name": "Jared Borgetti",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "atlas",
+      "santoslaguna",
+      "dorados",
+      "pachuca",
+      "bolton",
+      "alittihad",
+      "cruzazul",
+      "monterrey",
+      "guadalajara",
+      "puebla",
+      "morelia",
+      "leon"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "zlatanibrahimovic": {
+    "name": "Zlatan Ibrahimović",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "malmo",
+      "ajax",
+      "juventus",
+      "inter",
+      "barcelona",
+      "milan",
+      "psg",
+      "manchesterunited",
+      "galaxy"
+    ],
+    "nationalTeam": "sweden",
+    "last": "milan"
+  },
+  "peterschmeichel": {
+    "name": "Peter Schmeichel",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "brondby",
+      "manchesterunited",
+      "sporting",
+      "astonvilla",
+      "manchestercity"
+    ],
+    "nationalTeam": "denmark",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "pavelnedved": {
+    "name": "Pavel Nedvěd",
+    "number": 11,
+    "position": "LM",
+    "clubs": ["duklapraha", "spartapraha", "lazio", "juventus"],
+    "nationalTeam": "czech",
+    "retired": true
+  },
+  "josedejesuscorona": {
+    "name": "José de Jesús Corona",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["atlas", "tecos", "guadalajara", "cruzazul"],
+    "nationalTeam": "mexico"
+  },
+  "mohamedsalah": {
+    "name": "Mohamed Salah",
+    "number": 11,
+    "position": "RW",
+    "clubs": [
+      "almokawloon",
+      "basel",
+      "chelsea",
+      "fiorentina",
+      "roma",
+      "liverpool"
+    ],
+    "nationalTeam": "egypt",
+    "championsLeagues": 1
+  },
+  "daviddegea": {
+    "name": "David de|Gea",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["atleticomadrid", "manchesterunited"],
+    "nationalTeam": "spain"
+  },
+  "pacogento": {
+    "name": "Paco Gento",
+    "number": 11,
+    "position": "LW",
+    "clubs": ["racingsantander", "realmadrid"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 6
+  },
+  "ricardoosorio": {
+    "name": "Ricardo Osorio",
+    "number": 5,
+    "position": "RB",
+    "clubs": ["cruzazul", "stuttgart", "monterrey", "queretaro"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "kylianmbappe": {
+    "name": "Kylian Mbappé",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["monaco", "psg"],
+    "nationalTeam": "france",
+    "worldCups": 1
+  },
+  "petrcech": {
+    "name": "Petr Čech",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["blsany", "spartapraha", "rennais", "chelsea", "arsenal"],
+    "nationalTeam": "czech",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "philipplahm": {
+    "name": "Philipp Lahm",
+    "number": 16,
+    "position": "RB",
+    "clubs": ["bayernmunich", "stuttgart"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 1
+  },
+  "giovanidossantos": {
+    "name": "Giovani dos|Santos",
+    "number": 10,
+    "position": "SS",
+    "clubs": [
+      "barcelona",
+      "tottenham",
+      "ipswich",
+      "galatasaray",
+      "racingsantander",
+      "mallorca",
+      "villarreal",
+      "galaxy",
+      "america"
+    ],
+    "nationalTeam": "mexico"
+  },
+  "neymar": {
+    "name": "Neymar",
+    "number": 10,
+    "position": "LW",
+    "clubs": ["santos", "barcelona", "psg"],
+    "nationalTeam": "brazil",
+    "championsLeagues": 1
+  },
+  "thibautcourtois": {
+    "name": "Thibaut Courtois",
+    "number": 13,
+    "position": "GK",
+    "clubs": ["genk", "atleticomadrid", "chelsea", "realmadrid"],
+    "nationalTeam": "belgium"
+  },
+  "xabialonso": {
+    "name": "Xabi|Alonso",
+    "number": 14,
+    "position": "DM",
+    "clubs": [
+      "realsociedad",
+      "eibar",
+      "liverpool",
+      "realmadrid",
+      "bayernmunich"
+    ],
+    "nationalTeam": "spain",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 2
+  },
+  "jonathandossantos": {
+    "name": "Jonathan dos|Santos",
+    "number": 6,
+    "position": "CM",
+    "clubs": ["barcelona", "villarreal", "galaxy"],
+    "nationalTeam": "mexico",
+    "championsLeagues": 1
+  },
+  "sergiobusquets": {
+    "name": "Sergio Busquets",
+    "number": 5,
+    "position": "DM",
+    "clubs": ["barcelona"],
+    "nationalTeam": "spain",
+    "worldCups": 1,
+    "championsLeagues": 3
+  },
+  "victorvaldes": {
+    "name": "Víctor Valdés",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "barcelona",
+      "manchesterunited",
+      "standardliege",
+      "middlesbrough"
+    ],
+    "nationalTeam": "spain",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 3
+  },
+  "paolomaldini": {
+    "name": "Paolo Maldini",
+    "number": 3,
+    "position": "LB",
+    "clubs": ["milan"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "championsLeagues": 5
+  },
+  "oscarperez": {
+    "name": "Oscar Pérez",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["cruzazul", "uanl", "chiapas", "necaxa", "sanluis", "pachuca"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "thomasmuller": {
+    "name": "Thomas Müller",
+    "number": 13,
+    "position": "SS",
+    "clubs": ["bayernmunich"],
+    "nationalTeam": "germany",
+    "worldCups": 1,
+    "championsLeagues": 1
+  },
+  "janoblak": {
+    "name": "Jan Oblak",
+    "number": 13,
+    "position": "GK",
+    "clubs": [
+      "olimpija",
+      "beiramar",
+      "leiria",
+      "rioave",
+      "benfica",
+      "atleticomadrid"
+    ],
+    "nationalTeam": "slovenia"
+  },
+  "michaellaudrup": {
+    "name": "Michael Laudrup",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "brondby",
+      "lazio",
+      "juventus",
+      "barcelona",
+      "realmadrid",
+      "kobe",
+      "ajax"
+    ],
+    "nationalTeam": "denmark",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "franciscorodriguez": {
+    "name": "Francisco Rodríguez",
+    "number": 2,
+    "position": "CB",
+    "clubs": ["guadalajara", "psv", "stuttgart", "america", "cruzazul", "buap"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "virgilvandijk": {
+    "name": "Virgil van|Dijk",
+    "number": 4,
+    "position": "CB",
+    "clubs": ["groningen", "celtic", "southampton", "liverpool"],
+    "nationalTeam": "netherlands",
+    "championsLeagues": 1
+  },
+  "seppmaier": {
+    "name": "Sepp Maier",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["bayernmunich"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 4
+  },
+  "stevengerrard": {
+    "name": "Steven Gerrard",
+    "number": 8,
+    "position": "CM",
+    "clubs": ["liverpool", "galaxy"],
+    "nationalTeam": "england",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "gerardotorrado": {
+    "name": "Gerardo Torrado",
+    "number": 6,
+    "position": "DM",
+    "clubs": [
+      "unam",
+      "tenerife",
+      "ejido",
+      "sevilla",
+      "racingsantander",
+      "cruzazul",
+      "indyeleven"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "tonikroos": {
+    "name": "Toni Kroos",
+    "number": 8,
+    "position": "CM",
+    "clubs": ["bayernmunich", "leverkusen", "realmadrid"],
+    "nationalTeam": "germany",
+    "worldCups": 1,
+    "championsLeagues": 4
+  },
+  "marcandreterstegen": {
+    "name": "Marc-André ter|Stegen",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["monchengladbach", "barcelona"],
+    "nationalTeam": "germany",
+    "championsLeagues": 1
+  },
+  "miroslavklose": {
+    "name": "Miroslav Klose",
+    "number": 11,
+    "position": "CF",
+    "clubs": [
+      "homburg",
+      "kaiserslautern",
+      "werderbremen",
+      "bayernmunich",
+      "lazio"
+    ],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1
+  },
+  "luisgarcia": {
+    "name": "Luis García",
+    "number": 10,
+    "position": "FW",
+    "clubs": [
+      "unam",
+      "atleticomadrid",
+      "realsociedad",
+      "america",
+      "atlante",
+      "guadalajara",
+      "morelia",
+      "puebla"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "luissuarez": {
+    "name": "Luis Suárez",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["nacional", "groningen", "ajax", "liverpool", "barcelona"],
+    "nationalTeam": "uruguay",
+    "championsLeagues": 1
+  },
+  "ricardozamora": {
+    "name": "Ricardo Zamora",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["espanyol", "barcelona", "realmadrid", "nice"],
+    "nationalTeam": "spain",
+    "retired": true
+  },
+  "francobaresi": {
+    "name": "Franco Baresi",
+    "number": 6,
+    "position": "SW",
+    "clubs": ["milan"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 3
+  },
+  "hugoayala": {
+    "name": "Hugo Ayala",
+    "number": 2,
+    "position": "CB",
+    "clubs": ["atlas", "uanl"],
+    "nationalTeam": "mexico"
+  },
+  "thiagosilva": {
+    "name": "Thiago Silva",
+    "number": 2,
+    "position": "CB",
+    "clubs": [
+      "juventude",
+      "porto",
+      "dynamomoscow",
+      "fluminense",
+      "milan",
+      "psg"
+    ],
+    "nationalTeam": "brazil"
+  },
+  "fabienbarthez": {
+    "name": "Fabien Barthez",
+    "number": 16,
+    "position": "GK",
+    "clubs": [
+      "toulouse",
+      "olympiquedemarseille",
+      "monaco",
+      "manchesterunited",
+      "nantes"
+    ],
+    "nationalTeam": "france",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 1
+  },
+  "gheorghehagi": {
+    "name": "Gheorghe Hagi",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "farulconstanta",
+      "sportulstudentesc",
+      "fcsb",
+      "realmadrid",
+      "bresciacalcio",
+      "barcelona",
+      "galatasaray"
+    ],
+    "nationalTeam": "romania",
+    "retired": true
+  },
+  "pablobarrera": {
+    "name": "Pablo Barrera",
+    "number": 8,
+    "position": "RW",
+    "clubs": ["unam", "westham", "realzaragoza", "cruzazul", "monterrey"],
+    "nationalTeam": "mexico"
+  },
+  "marcelo": {
+    "name": "Marcelo",
+    "number": 12,
+    "position": "LB",
+    "clubs": ["fluminense", "realmadrid"],
+    "nationalTeam": "brazil",
+    "championsLeagues": 4
+  },
+  "renehiguita": {
+    "name": "René Higuita",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "millonarios",
+      "atleticonacional",
+      "realvalladolid",
+      "veracruz",
+      "medellin",
+      "realcartagena",
+      "alianzalima",
+      "pereira",
+      "aucas",
+      "guaros"
+    ],
+    "last": "pereira",
+    "nationalTeam": "colombia",
+    "retired": true
+  },
+  "thierryhenry": {
+    "name": "Thierry Henry",
+    "number": 12,
+    "position": "CF",
+    "clubs": ["monaco", "juventus", "arsenal", "barcelona", "newyork"],
+    "nationalTeam": "france",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 1
+  },
+  "oribeperalta": {
+    "name": "Oribe Peralta",
+    "number": 24,
+    "position": "CF",
+    "clubs": [
+      "morelia",
+      "leon",
+      "monterrey",
+      "santoslaguna",
+      "chiapas",
+      "america",
+      "guadalajara"
+    ],
+    "nationalTeam": "mexico"
+  },
+  "garrincha": {
+    "name": "Garrincha",
+    "number": 7,
+    "position": "RW",
+    "clubs": [
+      "botafogo",
+      "corinthians",
+      "portuguesa",
+      "junior",
+      "flamengo",
+      "olaria"
+    ],
+    "nationalTeam": "brazil",
+    "worldCups": 2,
+    "retired": true
+  },
+  "zico": {
+    "name": "Zico",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["flamengo", "udinese", "kashima"],
+    "nationalTeam": "brazil",
+    "retired": true
+  },
+  "socrates": {
+    "name": "Sócrates",
+    "number": 8,
+    "position": "AM",
+    "clubs": ["botafogorp", "corinthians", "fiorentina", "flamengo", "santos"],
+    "last": "botafogo",
+    "nationalTeam": "brazil",
+    "retired": true
+  },
+  "romario": {
+    "name": "Romário",
+    "number": 11,
+    "position": "CF",
+    "clubs": [
+      "vascodagama",
+      "psv",
+      "barcelona",
+      "flamengo",
+      "valencia",
+      "fluminense",
+      "alsadd",
+      "fortlauderdale",
+      "adelaide",
+      "americarj"
+    ],
+    "nationalTeam": "brazil",
+    "retired": true,
+    "worldCups": 1
+  },
+  "antoniocarbajal": {
+    "name": "Antonio Carbajal",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["realclubespana", "leon"],
+    "nationalTeam": "mexico",
+    "retired": true,
+    "signature": false
+  },
+  "alfredotalavera": {
+    "name": "Alfredo Talavera",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["guadalajara", "uanl", "toluca"],
+    "nationalTeam": "mexico"
+  },
+  "moisesmunoz": {
+    "name": "Moisés Muñoz",
+    "number": 23,
+    "position": "GK",
+    "clubs": ["morelia", "atlante", "america", "chiapas", "puebla"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "efrainjuarez": {
+    "name": "Efraín Juárez",
+    "number": 6,
+    "position": "RB",
+    "clubs": [
+      "unam",
+      "celtic",
+      "realzaragoza",
+      "america",
+      "monterrey",
+      "vancouver",
+      "valerenga"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "paulscholes": {
+    "name": "Paul Scholes",
+    "number": 18,
+    "position": "CM",
+    "clubs": ["manchesterunited"],
+    "nationalTeam": "england",
+    "retired": true,
+    "championsLeagues": 2
+  },
+  "garyneville": {
+    "name": "Gary Neville",
+    "number": 2,
+    "position": "RB",
+    "clubs": ["manchesterunited"],
+    "nationalTeam": "england",
+    "retired": true,
+    "championsLeagues": 2
+  },
+  "michaelowen": {
+    "name": "Michael Owen",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "liverpool",
+      "realmadrid",
+      "newcastle",
+      "manchesterunited",
+      "stokecity"
+    ],
+    "nationalTeam": "england",
+    "retired": true
+  },
+  "harrykane": {
+    "name": "Harry Kane",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["leyton", "tottenham", "millwall", "norwich", "leicester"],
+    "last": "tottenham",
+    "nationalTeam": "england"
+  },
+  "christianpulisic": {
+    "name": "Christian Pulisic",
+    "number": 22,
+    "position": "RW",
+    "clubs": ["dortmund", "chelsea"],
+    "nationalTeam": "unitedstates",
+    "championsLeagues": 1
+  },
+  "paulowanchope": {
+    "name": "Paulo Wanchope",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "herediano",
+      "derbycounty",
+      "westham",
+      "manchestercity",
+      "malaga",
+      "algharafa",
+      "rosario",
+      "tokyo",
+      "chicago"
+    ],
+    "retired": true,
+    "last": "herediano",
+    "nationalTeam": "costarica"
+  },
+  "timhoward": {
+    "name": "Tim Howard",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["newyork", "manchesterunited", "everton", "colorado", "memphis"],
+    "nationalTeam": "unitedstates"
+  },
+  "dwightyorke": {
+    "name": "Dwight Yorke",
+    "number": 19,
+    "position": "CF",
+    "clubs": [
+      "astonvilla",
+      "manchesterunited",
+      "blackburn",
+      "birmingham",
+      "sydney",
+      "sunderland"
+    ],
+    "nationalTeam": "trinidad&tobago",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "francescototti": {
+    "name": "Francesco Totti",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["roma"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "worldCups": 1
+  },
+  "alessandrodelpiero": {
+    "name": "Alessandro Del|Piero",
+    "number": 10,
+    "position": "SS",
+    "clubs": ["padova", "juventus", "sydney", "odisha"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "championsLeagues": 1,
+    "worldCups": 1
+  },
+  "andreapirlo": {
+    "name": "Andrea Pirlo",
+    "number": 21,
+    "position": "DM",
+    "clubs": [
+      "bresciacalcio",
+      "inter",
+      "reggina",
+      "milan",
+      "juventus",
+      "newyorkfc"
+    ],
+    "nationalTeam": "italy",
+    "retired": true,
+    "championsLeagues": 2,
+    "worldCups": 1
+  },
+  "fabiocannavaro": {
+    "name": "Fabio Cannavaro",
+    "number": 5,
+    "position": "CB",
+    "clubs": ["napoli", "parma", "inter", "juventus", "realmadrid", "alahli"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "worldCups": 1
+  },
+  "edenhazard": {
+    "name": "Eden Hazard",
+    "number": 10,
+    "position": "LW",
+    "clubs": ["lille", "chelsea", "realmadrid"],
+    "nationalTeam": "belgium"
+  },
+  "kevindebruyne": {
+    "name": "Kevin De|Bruyne",
+    "number": 7,
+    "position": "AM",
+    "clubs": ["genk", "werderbremen", "chelsea", "wolfsburg", "manchestercity"],
+    "nationalTeam": "belgium"
+  },
+  "romelulukaku": {
+    "name": "Romelu Lukaku",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "anderlecht",
+      "chelsea",
+      "westbromwich",
+      "everton",
+      "manchesterunited",
+      "inter"
+    ],
+    "nationalTeam": "belgium",
+    "championsLeagues": 1
+  },
+  "vincentkompany": {
+    "name": "Vincent Kompany",
+    "number": 4,
+    "position": "CB",
+    "clubs": ["anderlecht", "hamburger", "manchestercity"],
+    "last": "anderlecht",
+    "nationalTeam": "belgium"
+  },
+  "antoinegriezmann": {
+    "name": "Antoine Griezmann",
+    "number": 7,
+    "position": "LW",
+    "clubs": ["realsociedad", "atleticomadrid", "barcelona"],
+    "nationalTeam": "france",
+    "worldCups": 1
+  },
+  "lilianthuram": {
+    "name": "Lilian Thuram",
+    "number": 15,
+    "position": "CB",
+    "clubs": ["monaco", "parma", "juventus", "barcelona"],
+    "nationalTeam": "france",
+    "worldCups": 1,
+    "retired": true
+  },
+  "claudemakelele": {
+    "name": "Claude Makélélé",
+    "number": 6,
+    "position": "DM",
+    "clubs": [
+      "nantes",
+      "olympiquedemarseille",
+      "celtadevigo",
+      "realmadrid",
+      "chelsea",
+      "psg"
+    ],
+    "nationalTeam": "france",
+    "championsLeagues": 1,
+    "retired": true
+  },
+  "ericcantona": {
+    "name": "Éric Cantona",
+    "number": 7,
+    "position": "SS",
+    "clubs": [
+      "auxerre",
+      "olympiquedemarseille",
+      "bordeaux",
+      "montpellier",
+      "nimes",
+      "leeds",
+      "manchesterunited"
+    ],
+    "nationalTeam": "france",
+    "retired": true
+  },
+  "heungminson": {
+    "name": "Heung-min Son",
+    "number": 7,
+    "position": "LW",
+    "clubs": ["hamburger", "leverkusen", "tottenham"],
+    "nationalTeam": "southkorea"
+  },
+  "jisungpark": {
+    "name": "Ji-sung Park",
+    "number": 7,
+    "position": "AM",
+    "clubs": ["kyoto", "psv", "manchesterunited", "queenspark"],
+    "last": "psv",
+    "nationalTeam": "southkorea",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "shinjikagawa": {
+    "name": "Shinji Kagawa",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "osaka",
+      "dortmund",
+      "manchesterunited",
+      "besiktas",
+      "realzaragoza"
+    ],
+    "nationalTeam": "japan"
+  },
+  "timcahill": {
+    "name": "Tim Cahill",
+    "number": 4,
+    "position": "AM",
+    "clubs": [
+      "millwall",
+      "everton",
+      "newyork",
+      "shanghai",
+      "zhejiang",
+      "melbourne",
+      "jamshedpur"
+    ],
+    "retired": true,
+    "nationalTeam": "australia"
+  },
+  "marcovanbasten": {
+    "name": "Marco van|Basten",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["ajax", "milan"],
+    "retired": true,
+    "nationalTeam": "netherlands",
+    "championsLeagues": 2
+  },
+  "arjenrobben": {
+    "name": "Arjen Robben",
+    "number": 11,
+    "position": "RW",
+    "clubs": ["groningen", "psv", "chelsea", "realmadrid", "bayernmunich"],
+    "retired": true,
+    "nationalTeam": "netherlands",
+    "championsLeagues": 1
+  },
+  "dennisbergkamp": {
+    "name": "Dennis Bergkamp",
+    "number": 10,
+    "position": "SS",
+    "clubs": ["ajax", "inter", "arsenal"],
+    "retired": true,
+    "nationalTeam": "netherlands"
+  },
+  "ruudvannistelrooy": {
+    "name": "Ruud van|Nistelrooy",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "denbosch",
+      "heerenveen",
+      "psv",
+      "manchesterunited",
+      "realmadrid",
+      "hamburger",
+      "malaga"
+    ],
+    "retired": true,
+    "nationalTeam": "netherlands"
+  },
+  "ubaldofillol": {
+    "name": "Ubaldo Fillol",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "quilmes",
+      "racingclub",
+      "riverplate",
+      "argentinos",
+      "flamengo",
+      "atleticomadrid",
+      "velezsarsfield"
+    ],
+    "retired": true,
+    "nationalTeam": "argentina",
+    "worldCups": 1
+  },
+  "sergioaguero": {
+    "name": "Sergio Agüero",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["independiente", "atleticomadrid", "manchestercity"],
+    "nationalTeam": "argentina"
+  },
+  "juanromanriquelme": {
+    "name": "Juan Román Riquelme",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["bocajuniors", "barcelona", "villarreal", "argentinos"],
+    "nationalTeam": "argentina",
+    "retired": true
+  },
+  "marioalbertokempes": {
+    "name": "Mario Alberto Kempes",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "instituto",
+      "rosario",
+      "valencia",
+      "riverplate",
+      "hercules",
+      "firstvienna",
+      "polten",
+      "kremser",
+      "fernandezvial",
+      "maduraunited"
+    ],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "worldCups": 1
+  },
+  "emiliobutragueno": {
+    "name": "Emilio Butragueño",
+    "number": 7,
+    "position": "CF",
+    "clubs": ["realmadrid", "celaya"],
+    "nationalTeam": "spain",
+    "retired": true
+  },
+  "michelsalgado": {
+    "name": "Míchel Salgado",
+    "number": 2,
+    "position": "RB",
+    "clubs": [
+      "celtadevigo",
+      "salamanca",
+      "realmadrid",
+      "blackburn",
+      "chorrera"
+    ],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 2
+  },
+  "santiagobernabeu": {
+    "name": "Santiago Bernabéu",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["realmadrid"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 6
+  },
+  "ivanzamorano": {
+    "name": "Iván Zamorano",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "cobresal",
+      "trasandino",
+      "gallen",
+      "sevilla",
+      "realmadrid",
+      "inter",
+      "america",
+      "colocolo"
+    ],
+    "nationalTeam": "chile",
+    "retired": true
+  },
+  "michaelballack": {
+    "name": "Michael Ballack",
+    "number": 13,
+    "position": "CM",
+    "clubs": [
+      "chemnitzer",
+      "kaiserslautern",
+      "leverkusen",
+      "bayernmunich",
+      "chelsea"
+    ],
+    "last": "leverkusen",
+    "nationalTeam": "germany",
+    "retired": true
+  },
+  "lotharmatthaus": {
+    "name": "Lothar Matthäus",
+    "number": 10,
+    "position": "DM",
+    "clubs": ["monchengladbach", "bayernmunich", "inter", "newyork"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1
+  },
+  "gerdmuller": {
+    "name": "Gerd Müller",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["bayernmunich", "fortlauderdale"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 3
+  },
+  "mesutozil": {
+    "name": "Mesut Özil",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["schalke", "werderbremen", "realmadrid", "arsenal"],
+    "nationalTeam": "germany",
+    "worldCups": 1
+  },
+  "mariomandzukic": {
+    "name": "Mario Mandžukić",
+    "number": 17,
+    "position": "CF",
+    "clubs": [
+      "marsonia",
+      "nkzagreb",
+      "dinamozagreb",
+      "wolfsburg",
+      "bayernmunich",
+      "atleticomadrid",
+      "juventus",
+      "alduhail"
+    ],
+    "nationalTeam": "croatia",
+    "championsLeagues": 1
+  },
+  "davorsuker": {
+    "name": "Davor Šuker",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "osijek",
+      "dinamozagreb",
+      "sevilla",
+      "realmadrid",
+      "arsenal",
+      "westham",
+      "1860munich"
+    ],
+    "nationalTeam": "croatia",
+    "championsLeagues": 1,
+    "retired": true
+  },
+  "ivanrakitic": {
+    "name": "Ivan Rakitić",
+    "number": 7,
+    "position": "CM",
+    "clubs": ["basel", "schalke", "sevilla", "barcelona"],
+    "nationalTeam": "croatia",
+    "championsLeagues": 1
+  },
+  "nikokovac": {
+    "name": "Niko Kovač",
+    "number": 10,
+    "position": "DM",
+    "clubs": [
+      "zehlendorf",
+      "hertha",
+      "leverkusen",
+      "hamburger",
+      "bayernmunich",
+      "salzburg"
+    ],
+    "nationalTeam": "croatia",
+    "retired": true
+  },
+  "davidvilla": {
+    "name": "David Villa",
+    "number": 7,
+    "position": "CF",
+    "clubs": [
+      "gijon",
+      "realzaragoza",
+      "valencia",
+      "barcelona",
+      "atleticomadrid",
+      "melbourne",
+      "newyorkfc",
+      "kobe"
+    ],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 1,
+    "worldCups": 1
+  },
+  "telmozarra": {
+    "name": "Telmo Zarra",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["bilbao"],
+    "nationalTeam": "spain",
+    "retired": true
+  },
+  "andonizubizarreta": {
+    "name": "Andoni Zubizarreta",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["alaves", "bilbao", "barcelona", "valencia"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "cescfabregas": {
+    "name": "Cesc Fàbregas",
+    "number": 10,
+    "position": "CM",
+    "clubs": ["arsenal", "barcelona", "chelsea", "monaco"],
+    "nationalTeam": "spain",
+    "worldCups": 1
+  },
+  "didierdrogba": {
+    "name": "Didier Drogba",
+    "number": 11,
+    "position": "CF",
+    "clubs": [
+      "lemans",
+      "guingamp",
+      "olympiquedemarseille",
+      "chelsea",
+      "shanghai",
+      "galatasaray",
+      "montreal",
+      "phoenix"
+    ],
+    "nationalTeam": "ivorycoast",
+    "championsLeagues": 1,
+    "retired": true
+  },
+  "samueletoo": {
+    "name": "Samuel Eto'o",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "leganes",
+      "realmadrid",
+      "espanyol",
+      "mallorca",
+      "barcelona",
+      "inter",
+      "anzhi",
+      "chelsea",
+      "everton",
+      "sampdoria",
+      "antalyaspor",
+      "konyaspor",
+      "qatarsc"
+    ],
+    "nationalTeam": "cameroon",
+    "championsLeagues": 4,
+    "retired": true
+  },
+  "michaelessien": {
+    "name": "Michael Essien",
+    "number": 5,
+    "position": "DM",
+    "clubs": [
+      "liberty",
+      "bastia",
+      "olympiquelyon",
+      "chelsea",
+      "realmadrid",
+      "milan",
+      "panathinaikos",
+      "persib",
+      "sabail"
+    ],
+    "nationalTeam": "ghana",
+    "championsLeagues": 1
+  },
+  "yayatoure": {
+    "name": "Yaya Touré",
+    "number": 19,
+    "position": "CM",
+    "clubs": [
+      "mimosas",
+      "beveren",
+      "metalurh",
+      "olympiakos",
+      "monaco",
+      "barcelona",
+      "manchestercity",
+      "qingdao"
+    ],
+    "nationalTeam": "ivorycoast",
+    "championsLeagues": 1
+  },
+  "edinsoncavani": {
+    "name": "Edinson Cavani",
+    "number": 21,
+    "position": "CF",
+    "clubs": ["danubio", "palermo", "napoli", "psg"],
+    "nationalTeam": "uruguay"
+  },
+  "radamelfalcao": {
+    "name": "Radamel Falcao",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "boyaca",
+      "riverplate",
+      "porto",
+      "atleticomadrid",
+      "monaco",
+      "manchesterunited",
+      "chelsea",
+      "galatasaray"
+    ],
+    "nationalTeam": "colombia"
+  },
+  "joseluischilavert": {
+    "name": "José Luis Chilavert",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "luqueno",
+      "guarani",
+      "sanlorenzo",
+      "realzaragoza",
+      "velezsarsfield",
+      "estrasburgo",
+      "penarol"
+    ],
+    "last": "velezsarsfield",
+    "retired": true,
+    "nationalTeam": "paraguay"
+  },
+  "carlosvalderrama": {
+    "name": "Carlos Valderrama",
+    "number": 10,
+    "position": "CM",
+    "clubs": [
+      "magdalena",
+      "millonarios",
+      "deportivocali",
+      "montpellier",
+      "realvalladolid",
+      "medellin",
+      "junior",
+      "tampabay",
+      "miamifusion",
+      "colorado"
+    ],
+    "retired": true,
+    "nationalTeam": "colombia"
+  },
+  "josesaturninocardozo": {
+    "name": "José Saturnino Cardozo",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "gallen",
+      "universidadcatolica",
+      "olimpia",
+      "toluca",
+      "cruzazul",
+      "pachuca",
+      "sanlorenzo"
+    ],
+    "retired": true,
+    "nationalTeam": "paraguay"
+  },
+  "salvadorcabanas": {
+    "name": "Salvador Cabañas",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["12octubre", "guarani", "audax", "chiapas", "uanl", "america"],
+    "last": "12octubre",
+    "retired": true,
+    "nationalTeam": "paraguay"
+  },
+  "andrepierregignac": {
+    "name": "André-Pierre Gignac",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["lorient", "pau", "toulouse", "olympiquedemarseille", "uanl"],
+    "nationalTeam": "france"
+  },
+  "hectormiguelzelada": {
+    "name": "Héctor Miguel Zelada",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["rosario", "america", "atlante"],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "worldCups": 1
+  },
+  "andriyshevchenko": {
+    "name": "Andriy Shevchenko",
+    "number": 7,
+    "position": "CF",
+    "clubs": ["kyiv", "milan", "chelsea"],
+    "last": "kyiv",
+    "nationalTeam": "ukraine",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "robertlewandowski": {
+    "name": "Robert Lewandowski",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["legia", "znicz", "lech", "dortmund", "bayernmunich"],
+    "nationalTeam": "poland"
+  },
+  "hristostoichkov": {
+    "name": "Hristo Stoichkov",
+    "number": 8,
+    "position": "LW",
+    "clubs": [
+      "sofia",
+      "barcelona",
+      "parma",
+      "alnassr",
+      "kashiwa",
+      "chicago",
+      "dcunited"
+    ],
+    "nationalTeam": "bulgaria",
+    "championsLeagues": 1,
+    "retired": true
+  },
+  "eusebio": {
+    "name": "Eusébio",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "maxaquene",
+      "benfica",
+      "boston",
+      "monterrey",
+      "torontoblizzard",
+      "beiramar",
+      "lasvegas",
+      "tomar",
+      "newjersey"
+    ],
+    "nationalTeam": "portugal",
+    "championsLeagues": 1,
+    "retired": true
+  },
+  "joelhuiqui": {
+    "name": "Joel Huiqui",
+    "number": 4,
+    "position": "CB",
+    "clubs": [
+      "cruzazul",
+      "pachuca",
+      "morelia",
+      "cafetaleros",
+      "uaem",
+      "lasvegaslights"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "thomasgravesen": {
+    "name": "Thomas Gravesen",
+    "number": 7,
+    "position": "DM",
+    "clubs": ["vejle", "hamburger", "everton", "realmadrid", "celtic"],
+    "last": "everton",
+    "nationalTeam": "denmark",
+    "retired": true
+  },
+  "loriskarius": {
+    "name": "Loris Karius",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["mainz", "liverpool", "besiktas"],
+    "last": "liverpool",
+    "nationalTeam": "germany"
+  },
+  "luisrobertoalveszague": {
+    "name": "Luis Roberto Alves Zague",
+    "number": 11,
+    "position": "CF",
+    "clubs": ["america", "atlante", "necaxa"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "franciscopalencia": {
+    "name": "Francisco Palencia",
+    "number": 17,
+    "position": "CF",
+    "clubs": ["cruzazul", "espanyol", "guadalajara", "chivasusa", "unam"],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "franciscofonseca": {
+    "name": "Francisco Fonseca",
+    "number": 17,
+    "position": "CF",
+    "clubs": [
+      "yucatan",
+      "lapiedad",
+      "unam",
+      "cruzazul",
+      "benfica",
+      "uanl",
+      "atlante",
+      "guapiles"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
+  },
+  "omarbravo": {
+    "name": "Omar Bravo",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "guadalajara",
+      "deportivocoruna",
+      "uanl",
+      "kansascity",
+      "cruzazul",
+      "atlas",
+      "carolina",
+      "phoenix",
+      "udeg"
+    ],
+    "nationalTeam": "mexico"
+  },
+  "gabrielbatistuta": {
+    "name": "Gabriel Batistuta",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "newells",
+      "riverplate",
+      "bocajuniors",
+      "fiorentina",
+      "roma",
+      "inter",
+      "alarabi"
+    ],
+    "nationalTeam": "argentina",
+    "retired": true
+  },
+  "carlostevez": {
+    "name": "Carlos Tévez",
+    "number": 11,
+    "position": "SS",
+    "clubs": [
+      "bocajuniors",
+      "corinthians",
+      "westham",
+      "manchesterunited",
+      "manchestercity",
+      "juventus",
+      "shanghai"
+    ],
+    "last": "bocajuniors",
+    "nationalTeam": "argentina",
+    "championsLeagues": 1
+  },
+  "angeldimaria": {
+    "name": "Ángel Di|María",
+    "number": 11,
+    "position": "RW",
+    "clubs": ["rosario", "benfica", "realmadrid", "manchesterunited", "psg"],
+    "nationalTeam": "argentina",
+    "championsLeagues": 1
+  },
+  "gonzalohiguain": {
+    "name": "Gonzalo Higuaín",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "riverplate",
+      "realmadrid",
+      "napoli",
+      "juventus",
+      "milan",
+      "chelsea"
+    ],
+    "last": "juventus",
+    "nationalTeam": "argentina"
+  },
+  "claudiotaffarel": {
+    "name": "Cláudio Taffarel",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "internacional",
+      "parma",
+      "reggiana",
+      "atleticomineiro",
+      "galatasaray"
+    ],
+    "last": "parma",
+    "retired": true,
+    "nationalTeam": "brazil",
+    "worldCups": 1
+  },
+  "rivaldo": {
+    "name": "Rivaldo",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "santacruz",
+      "mogimirim",
+      "corinthians",
+      "palmeiras",
+      "deportivocoruna",
+      "barcelona",
+      "milan",
+      "cruzeiro",
+      "olympiakos",
+      "atenas",
+      "bunyodkor",
+      "saopaulo",
+      "kabuscorp",
+      "saocaetano"
+    ],
+    "last": "mogimirim",
+    "retired": true,
+    "nationalTeam": "brazil",
+    "worldCups": 1,
+    "championsLeagues": 1
+  },
+  "dida": {
+    "name": "Dida",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "vitoria",
+      "cruzeiro",
+      "corinthians",
+      "milan",
+      "portuguesa",
+      "gremio",
+      "internacional"
+    ],
+    "retired": true,
+    "nationalTeam": "brazil",
+    "worldCups": 1,
+    "championsLeagues": 2
+  },
+  "danialves": {
+    "name": "Dani Alves",
+    "number": 2,
+    "position": "RB",
+    "clubs": ["bahia", "sevilla", "barcelona", "juventus", "psg", "saopaulo"],
+    "nationalTeam": "brazil",
+    "championsLeagues": 3
+  },
+  "franckribery": {
+    "name": "Franck Ribéry",
+    "number": 7,
+    "position": "LW",
+    "clubs": [
+      "boulogne",
+      "ales",
+      "brestois",
+      "metz",
+      "galatasaray",
+      "olympiquedemarseille",
+      "bayernmunich",
+      "fiorentina"
+    ],
+    "nationalTeam": "france",
+    "championsLeagues": 1
+  },
+  "raymondkopa": {
+    "name": "Raymond Kopa",
+    "number": 7,
+    "position": "RW",
+    "clubs": ["angers", "reims", "realmadrid"],
+    "last": "reims",
+    "nationalTeam": "france",
+    "championsLeagues": 3,
+    "retired": true
+  },
+  "justfontaine": {
+    "name": "Just Fontaine",
+    "number": 17,
+    "position": "CF",
+    "clubs": ["nice", "reims"],
+    "nationalTeam": "france",
+    "retired": true
+  },
+  "bixentelizarazu": {
+    "name": "Bixente Lizarazu",
+    "number": 3,
+    "position": "LB",
+    "clubs": ["bordeaux", "bilbao", "bayernmunich", "olympiquedemarseille"],
+    "last": "bayernmunich",
+    "nationalTeam": "france",
+    "championsLeagues": 1,
+    "worldCups": 1,
+    "retired": true
+  },
+  "franklampard": {
+    "name": "Frank Lampard",
+    "number": 8,
+    "position": "CM",
+    "clubs": ["westham", "swansea", "chelsea", "manchestercity", "newyorkfc"],
+    "nationalTeam": "england",
+    "championsLeagues": 1,
+    "retired": true
+  },
+  "johnterry": {
+    "name": "John Terry",
+    "number": 6,
+    "position": "CB",
+    "clubs": ["chelsea", "nottingham", "astonvilla"],
+    "nationalTeam": "england",
+    "championsLeagues": 1,
+    "retired": true
+  },
+  "garylineker": {
+    "name": "Gary Lineker",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["leicester", "everton", "barcelona", "tottenham", "nagoya"],
+    "nationalTeam": "england",
+    "retired": true
+  },
+  "bobbycharlton": {
+    "name": "Bobby Charlton",
+    "number": 9,
+    "position": "AM",
+    "clubs": ["manchesterunited", "preston", "waterford"],
+    "nationalTeam": "england",
+    "retired": true,
+    "championsLeagues": 1,
+    "worldCups": 1
+  },
+  "georgebest": {
+    "name": "George Best",
+    "number": 7,
+    "position": "LW",
+    "clubs": [
+      "manchesterunited",
+      "dunstable",
+      "stockport",
+      "cork",
+      "aztecs",
+      "fulham",
+      "fortlauderdale",
+      "hibernian",
+      "earthquakes",
+      "bournemouth",
+      "queensland",
+      "tobermore"
+    ],
+    "nationalTeam": "northernireland",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "denislaw": {
+    "name": "Denis Law",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["huddersfield", "manchestercity", "torino", "manchesterunited"],
+    "last": "manchestercity",
+    "nationalTeam": "scotland",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "olegunnarsolskaer": {
+    "name": "Ole Gunnar Solskjær",
+    "number": 20,
+    "position": "SS",
+    "clubs": ["clausenengen", "molde", "manchesterunited"],
+    "nationalTeam": "norway",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "roykeane": {
+    "name": "Roy Keane",
+    "number": 16,
+    "position": "DM",
+    "clubs": ["cobh", "nottingham", "manchesterunited", "celtic"],
+    "nationalTeam": "ireland",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "erlinghaaland": {
+    "name": "Erling Haaland",
+    "number": 23,
+    "position": "CF",
+    "clubs": ["bryne", "molde", "salzburg", "dortmund"],
+    "nationalTeam": "norway"
+  },
+  "edgardavids": {
+    "name": "Edgar Davids",
+    "number": 8,
+    "position": "CM",
+    "clubs": [
+      "ajax",
+      "milan",
+      "juventus",
+      "barcelona",
+      "inter",
+      "tottenham",
+      "crystalpalace",
+      "barnet"
+    ],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "robinvanpersie": {
+    "name": "Robin van|Persie",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["feyenoord", "arsenal", "manchesterunited", "fenerbahce"],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "last": "feyenoord"
+  },
+  "wesleysneijder": {
+    "name": "Wesley Sneijder",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "ajax",
+      "realmadrid",
+      "inter",
+      "galatasaray",
+      "nice",
+      "algharafa"
+    ],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "clarenceseedorf": {
+    "name": "Clarence Seedorf",
+    "number": 10,
+    "position": "CM",
+    "clubs": ["ajax", "sampdoria", "realmadrid", "inter", "milan", "botafogo"],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "championsLeagues": 4
+  },
+  "santiagocanizares": {
+    "name": "Santiago Cañizares",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["realmadrid", "merida", "celtadevigo", "valencia"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "gerardpique": {
+    "name": "Gerard Piqué",
+    "number": 3,
+    "position": "CB",
+    "clubs": ["manchesterunited", "realzaragoza", "barcelona"],
+    "nationalTeam": "spain",
+    "championsLeagues": 4,
+    "worldCups": 1
+  },
+  "fernandotorres": {
+    "name": "Fernando Torres",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["atleticomadrid", "liverpool", "chelsea", "milan", "sagantosu"],
+    "nationalTeam": "spain",
+    "championsLeagues": 1,
+    "retired": true,
+    "worldCups": 1
+  },
+  "pepguardiola": {
+    "name": "Pep Guardiola",
+    "number": 4,
+    "position": "DM",
+    "clubs": ["barcelona", "bresciacalcio", "roma", "alahlisc", "dorados"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 3
+  },
+  "bastianschweinsteiger": {
+    "name": "Bastian Schweinsteiger",
+    "number": 7,
+    "position": "CM",
+    "clubs": ["bayernmunich", "manchesterunited", "chicago"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "championsLeagues": 1,
+    "worldCups": 1
+  },
+  "jurgenklinsmann": {
+    "name": "Jürgen Klinsmann",
+    "number": 18,
+    "position": "CF",
+    "clubs": [
+      "stuttgarter",
+      "stuttgart",
+      "inter",
+      "monaco",
+      "tottenham",
+      "bayernmunich",
+      "sampdoria"
+    ],
+    "last": "tottenham",
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1
+  },
+  "rudivoller": {
+    "name": "Rudi Völler",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "offenbach",
+      "1860munich",
+      "werderbremen",
+      "roma",
+      "olympiquedemarseille",
+      "leverkusen"
+    ],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 1
+  },
+  "karlheinzrummenigge": {
+    "name": "Karl-Heinz Rummenigge",
+    "number": 11,
+    "position": "CF",
+    "clubs": ["bayernmunich", "inter", "servette"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "championsLeagues": 2
+  },
+  "gennarogattuso": {
+    "name": "Gennaro Gattuso",
+    "number": 8,
+    "position": "CM",
+    "clubs": ["perugia", "rangers", "salernitana", "milan", "sion"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "championsLeagues": 2,
+    "worldCups": 1
+  },
+  "marcomaterazzi": {
+    "name": "Marco Materazzi",
+    "number": 23,
+    "position": "CB",
+    "clubs": ["perugia", "everton", "inter", "chennaiyin"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "championsLeagues": 1,
+    "worldCups": 1
+  },
+  "giuseppemeazza": {
+    "name": "Giuseppe Meazza",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["inter", "milan", "juventus"],
+    "last": "inter",
+    "nationalTeam": "italy",
+    "retired": true,
+    "worldCups": 2
+  },
+  "robertobaggio": {
+    "name": "Roberto Baggio",
+    "number": 10,
+    "position": "SS",
+    "clubs": [
+      "vicenza",
+      "fiorentina",
+      "juventus",
+      "milan",
+      "bologna",
+      "inter",
+      "bresciacalcio"
+    ],
+    "nationalTeam": "italy",
+    "retired": true
+  },
+  "michelpreudhomme": {
+    "name": "Michel Preud'homme",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["standardliege", "mechelen", "benfica"],
+    "nationalTeam": "belgium",
+    "retired": true
+  },
+  "jeanmariepfaff": {
+    "name": "Jean-Marie Pfaff",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["beveren", "bayernmunich", "lierse", "trabzonspor"],
+    "nationalTeam": "belgium",
+    "retired": true
+  },
+  "clintdempsey": {
+    "name": "Clint Dempsey",
+    "number": 8,
+    "position": "SS",
+    "clubs": ["newengland", "fulham", "tottenham", "seattle"],
+    "nationalTeam": "unitedstates",
+    "retired": true
+  },
+  "michaelbradley": {
+    "name": "Michael Bradley",
+    "number": 4,
+    "position": "CM",
+    "clubs": [
+      "newyork",
+      "heerenveen",
+      "monchengladbach",
+      "astonvilla",
+      "chievoverona",
+      "roma",
+      "toronto"
+    ],
+    "nationalTeam": "unitedstates"
+  },
+  "bradfriedel": {
+    "name": "Brad Friedel",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "brondby",
+      "galatasaray",
+      "columbus",
+      "liverpool",
+      "blackburn",
+      "astonvilla",
+      "tottenham"
+    ],
+    "nationalTeam": "unitedstates",
+    "retired": true
+  },
+  "claudioreyna": {
+    "name": "Claudio Reyna",
+    "number": 10,
+    "position": "CM",
+    "clubs": [
+      "leverkusen",
+      "wolfsburg",
+      "rangers",
+      "sunderland",
+      "manchestercity",
+      "newyork"
+    ],
+    "nationalTeam": "unitedstates",
+    "retired": true
+  },
+  "christianbenitez": {
+    "name": "Christian Benítez",
+    "number": 11,
+    "position": "CF",
+    "clubs": ["elnacional", "santoslaguna", "birmingham", "america", "eljaish"],
+    "nationalTeam": "ecuador",
+    "retired": true
+  },
+  "miguelcalero": {
+    "name": "Miguel Calero",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["barranquilla", "deportivocali", "atleticonacional", "pachuca"],
+    "nationalTeam": "colombia",
+    "retired": true
+  },
+  "hernancristante": {
+    "name": "Hernán Cristante",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["gimnasia", "toluca", "platense", "newells", "huracan", "udeg"],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "signature": false
+  },
+  "rodrigoruiz": {
+    "name": "Rodrigo Ruiz",
+    "number": 11,
+    "position": "SS",
+    "clubs": [
+      "unionespanola",
+      "puebla",
+      "neza",
+      "santoslaguna",
+      "pachuca",
+      "tecos",
+      "veracruz"
+    ],
+    "nationalTeam": "chile",
+    "retired": true,
+    "last": "tecos"
+  },
+  "fernandoredondo": {
+    "name": "Fernando Redondo",
+    "number": 5,
+    "position": "DM",
+    "clubs": ["argentinos", "tenerife", "realmadrid", "milan"],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "championsLeagues": 3
+  },
+  "pepe": {
+    "name": "Pepe",
+    "number": 3,
+    "position": "CB",
+    "clubs": ["maritimo", "porto", "realmadrid", "besiktas"],
+    "nationalTeam": "portugal",
+    "last": "porto",
+    "championsLeagues": 3
+  },
+  "fernandomorientes": {
+    "name": "Fernando Morientes",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "albacete",
+      "realzaragoza",
+      "realmadrid",
+      "monaco",
+      "liverpool",
+      "valencia",
+      "olympiquedemarseille"
+    ],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 3
+  },
+  "santiagosolari": {
+    "name": "Santiago Solari",
+    "number": 21,
+    "position": "LM",
+    "clubs": [
+      "riverplate",
+      "atleticomadrid",
+      "realmadrid",
+      "inter",
+      "sanlorenzo",
+      "atlante",
+      "penarol"
+    ],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "championsLeagues": 1
+  },
+  "manolosanchis": {
+    "name": "Manolo Sanchís",
+    "number": 5,
+    "position": "CB",
+    "clubs": ["realmadrid"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 2
+  },
+  "georgeweah": {
+    "name": "George Weah",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "invincibleeleven",
+      "tonnerre",
+      "monaco",
+      "psg",
+      "milan",
+      "chelsea",
+      "manchestercity",
+      "olympiquedemarseille",
+      "aljazira"
+    ],
+    "nationalTeam": "liberia",
+    "retired": true
+  },
+  "thomasnkono": {
+    "name": "Thomas N'Kono",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["espanyol", "sabadell", "bolivar"],
+    "nationalTeam": "cameroon",
+    "retired": true
+  },
+  "rogermilla": {
+    "name": "Roger Milla",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "valenciennes",
+      "monaco",
+      "bastia",
+      "saintetienne",
+      "montpellier",
+      "maduraunited"
+    ],
+    "nationalTeam": "cameroon",
+    "retired": true
+  },
+  "geremi": {
+    "name": "Geremi",
+    "number": 8,
+    "position": "RM",
+    "clubs": [
+      "cerroporteno",
+      "genclerbirligi",
+      "realmadrid",
+      "middlesbrough",
+      "chelsea",
+      "newcastle",
+      "ankaragucu"
+    ],
+    "nationalTeam": "cameroon",
+    "retired": true,
+    "championsLeagues": 2
+  },
+  "sadiomane": {
+    "name": "Sadio Mané",
+    "number": 10,
+    "position": "LW",
+    "clubs": ["metz", "salzburg", "southampton", "liverpool"],
+    "nationalTeam": "senegal",
+    "championsLeagues": 1
+  },
+  "elhadjidiouf": {
+    "name": "El Hadji Diouf",
+    "number": 11,
+    "position": "CF",
+    "clubs": [
+      "sochaux",
+      "rennais",
+      "lens",
+      "liverpool",
+      "bolton",
+      "sunderland",
+      "blackburn",
+      "rangers",
+      "doncaster",
+      "leeds",
+      "sabah"
+    ],
+    "nationalTeam": "senegal",
+    "retired": true
+  },
+  "pierreemerickaubameyang": {
+    "name": "Pierre-Emerick Aubameyang",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "milan",
+      "dijon",
+      "lille",
+      "monaco",
+      "saintetienne",
+      "dortmund",
+      "arsenal"
+    ],
+    "nationalTeam": "gabon"
+  },
+  "riyadmahrez": {
+    "name": "Riyad Mahrez",
+    "number": 26,
+    "position": "RW",
+    "clubs": ["lehavre", "leicester", "manchestercity"],
+    "nationalTeam": "algeria"
+  },
+  "kalidoukoulibaly": {
+    "name": "Kalidou Koulibaly",
+    "number": 26,
+    "position": "CB",
+    "clubs": ["metz", "genk", "napoli"],
+    "nationalTeam": "senegal"
+  },
+  "diegoforlan": {
+    "name": "Diego Forlán",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "independiente",
+      "manchesterunited",
+      "villarreal",
+      "atleticomadrid",
+      "inter",
+      "internacional",
+      "osaka",
+      "penarol",
+      "mumbai",
+      "kitchee"
+    ],
+    "nationalTeam": "uruguay",
+    "retired": true
+  },
+  "alvarorecoba": {
+    "name": "Álvaro Recoba",
+    "number": 20,
+    "position": "SS",
+    "clubs": ["danubio", "nacional", "inter", "venezia", "torino", "panionios"],
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "last": "nacional"
+  },
+  "juanschiaffino": {
+    "name": "Juan Schiaffino",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["penarol", "milan", "roma"],
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "worldCups": 1
+  },
+  "enzofrancescoli": {
+    "name": "Enzo Francescoli",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "montevideo",
+      "riverplate",
+      "racingcf",
+      "olympiquedemarseille",
+      "cagliari",
+      "torino"
+    ],
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "last": "riverplate"
+  },
+  "obduliovarela": {
+    "name": "Obdulio Varela",
+    "number": 5,
+    "position": "DM",
+    "clubs": ["montevideo", "penarol"],
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "worldCups": 1
+  },
+  "hectorscarone": {
+    "name": "Héctor Scarone",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["nacional", "barcelona", "inter", "palermo"],
+    "last": "nacional",
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "worldCups": 1,
+    "signature": false
+  },
+  "alcidesghiggia": {
+    "name": "Alcides Ghiggia",
+    "number": 7,
+    "position": "RW",
+    "clubs": ["sudamerica", "penarol", "roma", "milan", "danubio"],
+    "last": "sudamerica",
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "worldCups": 1
+  },
+  "ladislaomazurkiewicz": {
+    "name": "Ladislao Mazurkiewicz",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "racingmontevideo",
+      "penarol",
+      "atleticomineiro",
+      "granada",
+      "cobreloa",
+      "americacali"
+    ],
+    "last": "penarol",
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "signature": false
+  }
+}

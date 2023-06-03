@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="432.81125pt"
+   height="114.8pt"
+   viewBox="0 0 432.81125 114.8"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg12"
+   sodipodi:docname="logo-478x120.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1424"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="393.17374"
+     inkscape:cy="223.23834"
+     inkscape:window-x="0"
+     inkscape:window-y="88"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <rect
+     style="fill:currentColor;stroke-width:0.92770433"
+     id="rect80"
+     width="253.70564"
+     height="68.227226"
+     x="179.10562"
+     y="-1.3655875e-14"
+     ry="0"
+     transform="matrix(1,0,-0.62518043,0.78048026,0,0)" />
+  <rect
+     style="fill:currentColor;stroke-width:0.92770433"
+     id="rect80-3"
+     width="253.70563"
+     height="68.227226"
+     x="91.957115"
+     y="78.861702"
+     ry="0"
+     transform="matrix(1,0,-0.62518044,0.78048025,0,0)" />
+</svg>
